@@ -82,6 +82,36 @@ class CommunesController extends Controller
 
 
 
+
+    /**
+     * Display a listing of the resource.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function autocomplete_beta(Request $request)
+    {
+        $params = $request->query();
+        $communes = Communes::select('code_insee', 'nom')->get();
+        $output = [];
+
+        foreach ($communes as $commune) {
+            $output[] = [
+                "label"=>$commune->nom,
+                "value"=>$commune->code_insee
+            ];
+        }
+        return $output;
+
+
+
+
+
+        return [];
+    }
+
+
+
+
     /**
      * Display the specified resource.
      *

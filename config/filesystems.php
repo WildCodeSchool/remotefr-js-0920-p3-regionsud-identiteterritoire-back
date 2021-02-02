@@ -38,6 +38,10 @@ return [
             'driver' => 'local',
             'root' => storage_path('data/raw'),
         ],
+        'tokens' => [
+            'driver' => 'local',
+            'root' => storage_path('tokens'),
+        ],
         'public' => [
             'driver' => 'local',
             'root' => storage_path('app/public'),

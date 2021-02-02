@@ -14,7 +14,12 @@ return [
                 "openweathermap"=>[
                     "api_key"=>env('OPENWEATHERMAP_API_KEY'),
                     "url"=>env('OPENWEATHERMAP_URL')
-                    ]
+                ],
+                "culturo"=>[
+                    "login"=>env('CULTURO_LOGIN'),
+                    "password"=>env('CULTURO_PASSWORD'),
+                    "url"=>env('CULTURO_URL')
+                ]
             ]
 ];
 

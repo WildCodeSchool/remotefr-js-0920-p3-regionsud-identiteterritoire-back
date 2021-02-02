@@ -8,6 +8,10 @@ use App\Http\Controllers\MairiesController;
 use App\Http\Controllers\GeoCommunesController;
 use App\Http\Controllers\MairesController;
 use App\Http\Controllers\TourismesController;
+use App\Http\Controllers\CulturoController;
+
+
+
 /*
 |--------------------------------------------------------------------------
 | API Routes
@@ -22,6 +26,7 @@ use App\Http\Controllers\TourismesController;
 Route::get('/communes', [CommunesController::class, 'index'])->name("communes.index");
 Route::get('/communes/random/', [CommunesController::class, 'random']);
 Route::get('/communes/autocomplete', [CommunesController::class, 'autocomplete']);
+Route::get('/communes/autocomplete/beta', [CommunesController::class, 'autocomplete_beta']);
 Route::get('/communes/gallery/random/', [CommunesController::class, 'gallery_random']);
 Route::get('/communes/{code_insee}', [CommunesController::class, 'show'])->where('code_insee',"^[a-zA-Z0-9\-]+$");
 Route::get('/communes/{code_insee}/gallery/', [CommunesController::class, 'gallery'])->where('code_insee',"^[a-zA-Z0-9\-]+$");
@@ -34,5 +39,5 @@ Route::get('/communes/{code_insee}/tourismes/', [TourismesController::class, 'sh
 Route::get('/communes/{code_insee}/tourismes/counter/', [TourismesController::class, 'counter'])->where('code_insee',"^[a-zA-Z0-9\-]+$");
 
 
-
-//Route::get('/wrapper/culturo/', [TourismesController::class, 'counter'])->where('code_insee',"^[a-zA-Z0-9\-]+$");
+Route::get('/culturo/{path}', [CulturoController::class, 'index'])->where('path',"^[a-zA-Z0-9\-]+$");
+Route::get('/culturo/{path}/{id}', [CulturoController::class, 'show'])->where('path',"^[a-zA-Z0-9\-]+$")->where('id',"^[a-zA-Z0-9\-]+$");

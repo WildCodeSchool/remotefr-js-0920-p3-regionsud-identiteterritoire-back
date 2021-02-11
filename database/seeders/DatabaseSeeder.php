@@ -16,6 +16,7 @@ include("CommunesInseeRegionSud.php");
 include("MairesRegionSud.php");
 include("GeoCommunesRegionSud.php");
 include("PatrimoineCulturelRegionSud.php");
+include("FakerPresentation.php");
 class DatabaseSeeder extends Seeder
 {
     /**
@@ -33,6 +34,8 @@ class DatabaseSeeder extends Seeder
             MairesRegionSud::class,
             GeoCommunesRegionSud::class,
             PatrimoineCulturelRegionSud::class,
+            FakerPresentation::class,//Last
+
         ]);
 
 

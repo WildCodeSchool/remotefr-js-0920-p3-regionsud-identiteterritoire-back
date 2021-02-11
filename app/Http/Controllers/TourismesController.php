@@ -29,6 +29,45 @@ class TourismesController extends Controller
         return $tourismes;
     }
 
+
+
+    public function radar(Request $request, $code_insee)
+    {
+        $params = $request->query();
+
+        $type_all = Tourismes::select('type')->groupBy('type')->get();
+        $output = [];
+        foreach ($type_all as $type) {
+            $row = new \stdClass();
+            $row->type= $type->type;
+            $row->name = str_replace("_", " ", ucfirst(strtolower($type->type)));
+            $row->total = Tourismes::has("illustrations")->where("code_insee",$code_insee)->where("type",$type->type)->whereNotNull("description")->groupBy('type')->count();
+            $output[] = $row;
+        }
+        return $output;
+    }
+
+
+
+
+
+    public function radar_all(Request $request)
+    {
+        $params = $request->query();
+
+        $type_all = Tourismes::select('type')->groupBy('type')->get();
+        $output = [];
+        foreach ($type_all as $type) {
+            $row = new \stdClass();
+            $row->type= $type->type;
+            $row->name = str_replace("_", " ", ucfirst(strtolower($type->type)));
+            $row->total = Tourismes::has("illustrations")->where("type",$type->type)->whereNotNull("description")->groupBy('type')->count();
+            $output[] = $row;
+        }
+        return $output;
+    }
+
+
     //$user_info = Usermeta::groupBy('browser')->select('browser', DB::raw('count(*) as total'))->get();
 
 

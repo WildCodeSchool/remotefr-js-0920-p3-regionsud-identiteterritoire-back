@@ -91,12 +91,12 @@ class CommunesController extends Controller
     public function autocomplete_beta(Request $request)
     {
         $params = $request->query();
-        $communes = Communes::select('code_insee', 'nom')->get();
+        $communes = Communes::select('code_insee', 'nom', 'code_postal')->get();
         $output = [];
 
         foreach ($communes as $commune) {
             $output[] = [
-                "label"=>$commune->nom,
+                "label"=>$commune->nom ."(".$commune->code_postal.")",
                 "value"=>$commune->code_insee
             ];
         }
@@ -205,6 +205,59 @@ class CommunesController extends Controller
      */
     public function slider(Request $request, $code_insee)
     {
+
+
+         if(in_array($code_insee,["06088","83137","04088","83010"])){
+
+            $faker = [
+                        "id"=> "78208".$code_insee,
+                        "tourisme_id"=> "34416".$code_insee,
+                        "code_insee"=> $code_insee,
+                        "type"=> "PATRIMOINE_NATUREL",
+                        "nom"=> "",
+                        "urlDiaporama"=> "http:\/\/static.apidae-tourisme.com\/filestore\/objets-touristiques\/images\/70\/15\/8326982-diaporama.jpg",
+                        "url"=> "http:\/\/static.apidae-tourisme.com\/filestore\/objets-touristiques\/images\/70\/15\/8326982.jpg",
+                        "hauteur"=> 2584,
+                        "largeur"=> 4592,
+                        "taille"=> 874203,
+                        "copyright"=> "Inconnue",
+                        "created_at"=> "2021-01-26T21:45:31.000000Z",
+                        "updated_at"=> "2021-01-26T21:45:31.000000Z"
+                    ];
+                    //dd();
+
+            switch ($code_insee) {
+                case '06088':
+                    $faker["nom"] = "Bienvenue à Nice";
+                    $faker["urlDiaporama"] = url('/images/slider/nice.jpg');
+                    $faker["url"] = url('/images/slider/nice.jpg');
+
+                 break;
+
+                case '83137':
+                    $faker["nom"] = "Bienvenue à Toulon";
+                    $faker["urlDiaporama"] = url('/images/slider/toulon.jpg');
+                    $faker["url"] = url('/images/slider/toulon.jpg');
+
+
+                break;
+                case '04088':
+                    $faker["nom"] = "Bienvenue à Forcalquier";
+                    $faker["urlDiaporama"] = url('/images/slider/forcalquier.jpg');
+                    $faker["url"] = url('/images/slider/forcalquier.jpg');
+                    break;
+
+                case '83010':
+                    $faker["nom"] = "Bienvenue à Bargème";
+                    $faker["urlDiaporama"] = url('/images/slider/bargeme.jpg');
+                    $faker["url"] = url('/images/slider/bargeme.jpg');
+                    break;
+            }
+
+             return $faker;
+        }
+
+
         $tourisme_illustrations = TourismesIllustrations::where("code_insee",$code_insee)->where("type","PATRIMOINE_CULTUREL")->orWhere('type', 'PATRIMOINE_NATUREL')->where("taille","<","1023497")->orderBy( 'largeur', 'desc' )->take(100)->get();
 
         foreach ($tourisme_illustrations as $tourisme_illustration) {

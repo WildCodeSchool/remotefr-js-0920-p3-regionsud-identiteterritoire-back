@@ -9,6 +9,7 @@ use App\Http\Controllers\GeoCommunesController;
 use App\Http\Controllers\MairesController;
 use App\Http\Controllers\TourismesController;
 use App\Http\Controllers\CulturoController;
+use App\Http\Controllers\FakyController;
 
 
 
@@ -37,7 +38,11 @@ Route::get('/communes/{code_insee}/maire/', [MairesController::class, 'show'])->
 Route::get('/communes/{code_insee}/geocommunes/', [GeoCommunesController::class, 'show'])->where('code_insee',"^[a-zA-Z0-9\-]+$");
 Route::get('/communes/{code_insee}/tourismes/', [TourismesController::class, 'show'])->where('code_insee',"^[a-zA-Z0-9\-]+$");
 Route::get('/communes/{code_insee}/tourismes/counter/', [TourismesController::class, 'counter'])->where('code_insee',"^[a-zA-Z0-9\-]+$");
+Route::get('/communes/{code_insee}/tourismes/radar/', [TourismesController::class, 'radar'])->where('code_insee',"^[a-zA-Z0-9\-]+$");
 
+Route::get('/communes/tourismes/radar/', [TourismesController::class, 'radar_all']);
 
 Route::get('/culturo/{path}', [CulturoController::class, 'index'])->where('path',"^[a-zA-Z0-9\-]+$");
 Route::get('/culturo/{path}/{id}', [CulturoController::class, 'show'])->where('path',"^[a-zA-Z0-9\-]+$")->where('id',"^[a-zA-Z0-9\-]+$");
+
+Route::get('/communes/{code_insee}/evenements/', [FakyController::class, 'evenements'])->where('code_insee',"^[a-zA-Z0-9\-]+$");

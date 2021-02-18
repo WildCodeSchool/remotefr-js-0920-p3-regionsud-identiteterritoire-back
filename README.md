@@ -148,6 +148,19 @@ En étant revenu à un compte utilisateur ayant les droits sudo :
 
 On peut alors accéder à l'application depuis un navigateur, à l'adresse <http://w.x.y.z/carte-identite-territoire>.
 
+#### Modification du virtual host d'Apache
+
+On souhaite rediriger toutes les requêtes arrivant vers `/carte-identite-territoire` ou un chemin dérivé, vers le fichier `index.html` servant de point d'entrée pour charger l'application React.
+
+On va modifier le virtual host par défaut d'Apache (`/etc/apache2/sites-available/000-default.conf`), celui-là même qu'on avait déjà édité pour déployer le projet KPL. Sous les lignes qu'on avait déjà ajoutées, on ajoute :
+
+        # All URLs not matching a filename should fall back to the React app's index
+        <Directory "/var/www/html/carte-identite-territoire">
+                FallbackResource "/carte-identite-territoire/index.html"
+        </Directory>
+
+Puis on redémarre Apache : `sudo systemctl restart apache2`
+
 ### Déploiement de l'application serveur
 
 Des instructions sont fournies dans la documentation de Laravel, notamment dans les pages [Installation](https://laravel.com/docs/8.x/installation) et [Deployment](https://laravel.com/docs/8.x/deployment), sous la section "Getting Started".
@@ -276,15 +289,17 @@ Certains sous-répertoires du répertoire `storage` de l'application ne peuvent 
 
 Le tutoriel [How to set up file permissions for Laravel](https://linuxhint.com/how-to-set-up-file-permissions-for-laravel/) propose plusieurs façons d'y remédier.
 
-On va s'aider de la dernière (section "Your user as owner"), pour donner les droits d'écriture sur le répertoire de l'application aux utilisateurs du groupe `www-data`. On lance les commandes suivantes :
+On va s'inspirer de la dernière (section "Your user as owner"), pour donner les droits d'écriture sur certains sous-répertoires de l'application aux utilisateurs du groupe `www-data`. On lance les commandes suivantes :
 
-    sudo chown -R laravel:www-data /home/laravel/citer-backend
-    sudo find /home/laravel/citer-backend -type f -exec chmod 664 {} \;
-    sudo find /home/laravel/citer-backend -type d -exec chmod 775 {} \;
+    sudo chown -R laravel:www-data /home/laravel/citer-backend/storage
+    sudo find /home/laravel/citer-backend/storage/logs/ -type f -exec chmod 664 {} \;
+    sudo find /home/laravel/citer-backend/storage/logs/ -type d -exec chmod 775 {} \;
+    sudo find /home/laravel/citer-backend/storage/framework/ -type f -exec chmod 664 {} \;
+    sudo find /home/laravel/citer-backend/storage/framework/ -type d -exec chmod 775 {} \;
 
 Site à cela, un rechargement de la page <http://w.x.y.z/citer-back> se conclut toujours par une erreur 500, qui ne provient plus d'Apache, mais de Laravel lui-même. Il va maintenant s'agir de configurer l'application.
 
-#### Configuration
+#### Configuration - clé de chiffrement
 
 On va donc trouver la source de l'erreur 500 sous `storage/logs/laravel.log`. Depuis `citer-backend` : `tail -n 30 storage/logs/laravel.log`.
 
@@ -299,6 +314,74 @@ Puis on lance cette commande, permettant de générer une clé de chiffrement (v
     php artisan key:generate
 
 On peut désormais accéder à la page d'accueil de l'application serveur sans erreur, mais il reste des choses à configurer.
+
+#### Modification du Virtual Host d'Apache
+
+On édite à nouveau `/etc/apache2/sites-available/000-default.conf`.
+
+On va utiliser la directive `FallbackResource`, pour rediriger toutes les requêtes entrantes sur le chemin `/citer-back` vers le fichier `index.php` de Laravel, qui va se charger de router la requête vers le bon contrôleur.
+
+Sous les lignes ajoutées précédemment, on ajoute ce bloc :
+
+        # All URLs not matching a filename should fall back to Laravel's front controller
+        <Directory "/var/www/html/citer-back">
+                FallbackResource "/citer-back/index.php"
+        </Directory>
+
+Puis on redémarre Apache : `sudo systemctl restart apache2`
+
+#### Installation de MariaDB / MySQL
+
+On se rend sur l'un des _endpoints_ de l'API fournie par l'application Laravel : <http://w.x.y.z/citer-back/api/communes>. On obtient cette erreur car la BDD n'est pas encore configurée :
+
+```
+SQLSTATE[HY000] [2002] Connection refused (SQL: select * from `communes` limit 20 offset 0)
+```
+
+Il faut installer un serveur MySQL ou MariaDB. On opte pour ce dernier. Avec les droits sudo :
+
+    sudo apt-get install -y mariadb-server
+
+Puis on lance la console MySQL : `sudo mysql -uroot`.
+
+On crée une base de données :
+
+    create database carte_identite_territoire character set utf8mb4 collate utf8mb4_unicode_ci;
+
+De là, on va créer un utilisateur local, et lui donner des droits sur la base de données.
+
+On génère d'abord un mot de passe (mot de passe factice ici) :
+
+    SELECT PASSWORD('Fake.Pwd!') AS password;
+
+On crée l'utilisateur, en utilisant le mot de passe qui vient de nous être donné, et on lui octroie les privilèges pour accéder à la base `carte_identite_territoire` :
+
+    CREATE USER citer@localhost IDENTIFIED BY PASSWORD '*99C7C2A4CABD73D95FD473167CED67EDE0F4DFB4';
+    GRANT ALL PRIVILEGES on carte_identite_territoire.* to citer@localhost;
+
+#### Configuration - Base de données
+
+On **resssort** de la console MySQL puis, en tant que `laravel`, on édite 3 variables dans `/home/laravel/citer-backend/.env` :
+
+```
+DB_DATABASE=carte_identite_territoire
+DB_USERNAME=citer
+DB_PASSWORD=Fake.Pwd!
+```
+
+#### Run des migrations
+
+Si on recharge la page <http://w.x.y.z/citer-back/api/communes>, on obtient une erreur différente, complétée par une invitation à lancer les migrations.
+
+On va le faire en ligne de commande, ce qui va nous permettre au passage de _seeder_ la base de données. Toujours en tant que `laravel`, sous le dossier `~/citer-backend` :
+
+    php artisan migrate:refresh --seed
+
+Cette étape prend un peu de temps, car des fichiers JSON et CSV volumineux sont importés dans les différentes tables.
+
+#### Configuration - autres variables
+
+> TO BE COMPLETED
 
 Commandes :
 1/ php composer install

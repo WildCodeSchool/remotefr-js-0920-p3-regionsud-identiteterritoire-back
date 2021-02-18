@@ -1,0 +1,905 @@
+﻿ID_Ville;Code_INSEE;Libelle_Commune;Code_ZIP;Commune;Code_Region;Libelle_Region;Latitude;Longitude;Code_ZE2010;Libelle_Zone;Academie;Code_Departement;Libelle_Departement;Libelle_Intercommunalite;Code_Arrondissement;Code_Canton
+1;4001;Aiglun;4510;Aiglun;93;PROVENCE-ALPES-COTE D'AZUR;44.0507011414;6.14496994019;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;5
+2;4004;Allemagne-en-Provence;4500;Allemagne-en-Provence;93;PROVENCE-ALPES-COTE D'AZUR;43.7811012268;6.00784015656;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;15
+3;4005;Allons;4170;Allons;93;PROVENCE-ALPES-COTE D'AZUR;43.97706604;6.5951461792;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+4;4006;Allos;4260;Allos;93;PROVENCE-ALPES-COTE D'AZUR;44.2407798767;6.62885713577;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+5;4007;Angles;4170;Angles;93;PROVENCE-ALPES-COTE D'AZUR;43.9420280457;6.55837583542;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+6;4008;Annot;4240;Annot;93;PROVENCE-ALPES-COTE D'AZUR;43.9670982361;6.6661901474;9307;Nice;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+7;4009;Archail;4420;Archail;93;PROVENCE-ALPES-COTE D'AZUR;44.121098;6.3344699;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;13
+8;4012;Aubenas-les-Alpes;4110;Aubenas-les-Alpes;93;PROVENCE-ALPES-COTE D'AZUR;43.9305992126;5.68175983429;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+9;4013;Aubignosc;4200;Aubignosc;93;PROVENCE-ALPES-COTE D'AZUR;44.1298446655;5.96958303452;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Jabron-Lure-VanÃ§on-Durance;4;3
+10;4016;Authon;4200;Authon;93;PROVENCE-ALPES-COTE D'AZUR;44.2382469177;6.12702608109;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;14
+11;4017;Auzet;4140;Auzet;93;PROVENCE-ALPES-COTE D'AZUR;44.2958297729;6.31780195236;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;13
+12;4018;Banon;4150;Banon;93;PROVENCE-ALPES-COTE D'AZUR;44.0379981995;5.62959003448;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+13;4019;Barcelonnette;4400;Barcelonnette;93;PROVENCE-ALPES-COTE D'AZUR;44.3862304688;6.64792013168;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC VallÃ©e de l'Ubaye - Serre-PonÃ§on;1;1
+14;4020;Barles;4140;Barles;93;PROVENCE-ALPES-COTE D'AZUR;44.2634620667;6.26818799973;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;13
+15;4021;Barras;4380;Barras;93;PROVENCE-ALPES-COTE D'AZUR;44.1050605774;6.11366796494;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;5
+16;4022;BarrÃªme;4330;BarrÃªme;93;PROVENCE-ALPES-COTE D'AZUR;43.9520072937;6.36622095108;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;12
+17;4023;Bayons;4250;Bayons;93;PROVENCE-ALPES-COTE D'AZUR;44.337687;6.1623;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+18;4024;Beaujeu;4420;Beaujeu;93;PROVENCE-ALPES-COTE D'AZUR;44.2033348083;6.37144994736;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;13
+19;4025;Beauvezer;4370;Beauvezer;93;PROVENCE-ALPES-COTE D'AZUR;44.143249;6.591834;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+20;4026;Bellaffaire;4250;Bellaffaire;93;PROVENCE-ALPES-COTE D'AZUR;44.4192314148;6.1759557724;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+21;4027;Bevons;4200;Bevons;93;PROVENCE-ALPES-COTE D'AZUR;44.178652;5.884651;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Jabron-Lure-VanÃ§on-Durance;4;14
+22;4028;Beynes;4270;Beynes;93;PROVENCE-ALPES-COTE D'AZUR;43.9934654236;6.20194101334;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;12
+23;4030;Blieux;4330;Blieux;93;PROVENCE-ALPES-COTE D'AZUR;43.872705;6.371197;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;12
+24;4031;Bras-d'Asse;4270;Bras-d'Asse;93;PROVENCE-ALPES-COTE D'AZUR;43.9244134;6.12729739999997;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;12
+25;4032;Braux;4240;Braux;93;PROVENCE-ALPES-COTE D'AZUR;43.9872512817;6.69924020767;9307;Nice;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+26;4033;Ubaye-Serre-PonÃ§on;4340;Ubaye-Serre-PonÃ§on;93;PROVENCE-ALPES-COTE D'AZUR;44.445049;6.3730019;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC VallÃ©e de l'Ubaye - Serre-PonÃ§on;1;1
+28;4034;La Brillanne;4700;La Brillanne;93;PROVENCE-ALPES-COTE D'AZUR;43.9303016663;5.89052009583;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;6
+29;4035;Brunet;4210;Brunet;93;PROVENCE-ALPES-COTE D'AZUR;43.8926048279;6.02999687195;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;15
+30;4036;Le Brusquet;4420;Le Brusquet;93;PROVENCE-ALPES-COTE D'AZUR;44.1610641479;6.30940914154;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;13
+31;4037;Le Caire;4250;Le Caire;93;PROVENCE-ALPES-COTE D'AZUR;44.3698539734;6.0608458519;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+32;4039;Castellane;4120;Castellane;93;PROVENCE-ALPES-COTE D'AZUR;43.846698761;6.51086997986;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+33;4040;Le Castellard-MÃ©lan;4380;Le Castellard-MÃ©lan;93;PROVENCE-ALPES-COTE D'AZUR;44.1874465942;6.12480115891;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;4
+34;4041;Le Castellet;4700;Le Castellet;93;PROVENCE-ALPES-COTE D'AZUR;43.9379196167;5.97996282578;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;12
+35;4042;Castellet-lÃ¨s-Sausses;4320;Castellet-lÃ¨s-Sausses;93;PROVENCE-ALPES-COTE D'AZUR;43.9944801331;6.763879776;9307;Nice;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+36;4043;Val-de-Chalvagne;4320;Val-de-Chalvagne;93;PROVENCE-ALPES-COTE D'AZUR;43.914949;6.807721;9307;Nice;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+37;4045;CÃ©reste;4280;CÃ©reste;93;PROVENCE-ALPES-COTE D'AZUR;43.8564987183;5.58961009979;9316;Cavaillon - Apt;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Pays d'Apt-Luberon;4;11
+38;4046;Le Chaffaut-Saint-Jurson;4510;Le Chaffaut-Saint-Jurson;93;PROVENCE-ALPES-COTE D'AZUR;44.0376014709;6.14969015121;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;12
+39;4047;Champtercier;4660;Champtercier;93;PROVENCE-ALPES-COTE D'AZUR;44.0960083008;6.1620259285;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;5
+40;4049;ChÃ¢teau-Arnoux-Saint-Auban;4160;ChÃ¢teau-Arnoux-Saint-Auban;93;PROVENCE-ALPES-COTE D'AZUR;44.0936012268;6.00865983963;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;3
+41;4050;ChÃ¢teaufort;4250;ChÃ¢teaufort;93;PROVENCE-ALPES-COTE D'AZUR;44.2745933533;6.01773405075;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+42;4051;ChÃ¢teauneuf-Miravail;4200;ChÃ¢teauneuf-Miravail;93;PROVENCE-ALPES-COTE D'AZUR;44.1593322754;5.71657419205;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Jabron-Lure-VanÃ§on-Durance;4;14
+43;4053;ChÃ¢teauneuf-Val-Saint-Donat;4200;ChÃ¢teauneuf-Val-Saint-Donat;93;PROVENCE-ALPES-COTE D'AZUR;44.0939750671;5.94993400574;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Jabron-Lure-VanÃ§on-Durance;4;3
+44;4054;ChÃ¢teauredon;4270;ChÃ¢teauredon;93;PROVENCE-ALPES-COTE D'AZUR;44.0147171021;6.21359109879;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;12
+45;4055;Chaudon-Norante;4330;Chaudon-Norante;93;PROVENCE-ALPES-COTE D'AZUR;43.9954986572;6.33115005493;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;12
+46;4057;Clamensane;4250;Clamensane;93;PROVENCE-ALPES-COTE D'AZUR;44.3216968;6.0689115;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+47;4058;Claret;5110;Claret;93;PROVENCE-ALPES-COTE D'AZUR;44.371635437;5.95666980743;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Gap-Tallard-Durance;4;13
+48;4059;Clumanc;4330;Clumanc;93;PROVENCE-ALPES-COTE D'AZUR;44.0233917236;6.38300800323;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;12
+49;4061;Colmars;4370;Colmars;93;PROVENCE-ALPES-COTE D'AZUR;44.182011;6.627112;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+50;4062;La Condamine-ChÃ¢telard;4530;La Condamine-ChÃ¢telard;93;PROVENCE-ALPES-COTE D'AZUR;44.458205;6.745126;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC VallÃ©e de l'Ubaye - Serre-PonÃ§on;1;1
+51;4063;CorbiÃ¨res-en-Provence;4220;CorbiÃ¨res-en-Provence;93;PROVENCE-ALPES-COTE D'AZUR;43.7613983154;5.7498497963;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;9
+52;4065;Cruis;4230;Cruis;93;PROVENCE-ALPES-COTE D'AZUR;44.0626068115;5.83551979065;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Pays Forcalquier et Montagne de Lure;4;6
+53;4066;Curbans;5110;Curbans;93;PROVENCE-ALPES-COTE D'AZUR;44.4285697937;6.03829813004;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Gap-Tallard-Durance;4;13
+54;4067;Curel;4200;Curel;93;PROVENCE-ALPES-COTE D'AZUR;44.1772384644;5.66169404984;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Jabron-Lure-VanÃ§on-Durance;4;14
+55;4068;Dauphin;4300;Dauphin;93;PROVENCE-ALPES-COTE D'AZUR;43.8988037109;5.78411197662;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+56;4069;Demandolx;4120;Demandolx;93;PROVENCE-ALPES-COTE D'AZUR;43.8695487976;6.57936191559;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+57;4070;Digne-les-Bains;4003;Digne-les-Bains Cedex;93;PROVENCE-ALPES-COTE D'AZUR;44.0928359;6.2358831;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;98
+58;4072;Draix;4420;Draix;93;PROVENCE-ALPES-COTE D'AZUR;44.1346244812;6.34251880646;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;13
+59;4073;Enchastrayes;4400;Enchastrayes;93;PROVENCE-ALPES-COTE D'AZUR;44.369543;6.69109;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC VallÃ©e de l'Ubaye - Serre-PonÃ§on;1;1
+60;4074;Entrages;4000;Entrages;93;PROVENCE-ALPES-COTE D'AZUR;44.0456008911;6.26588010788;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;4
+61;4075;Entrepierres;4200;Entrepierres;93;PROVENCE-ALPES-COTE D'AZUR;44.1972770691;5.99108886719;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;14
+62;4076;Entrevaux;4320;Entrevaux;93;PROVENCE-ALPES-COTE D'AZUR;43.9499784;6.8101685;9307;Nice;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+63;4077;Entrevennes;4700;Entrevennes;93;PROVENCE-ALPES-COTE D'AZUR;43.9378700256;6.0244140625;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;12
+64;4079;L'Escale;4160;L'Escale;93;PROVENCE-ALPES-COTE D'AZUR;44.0848007202;6.02430009842;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;3
+65;4081;Esparron-de-Verdon;4800;Esparron-de-Verdon;93;PROVENCE-ALPES-COTE D'AZUR;43.7384147644;5.9704580307;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;15
+66;4084;Estoublon;4270;Estoublon;93;PROVENCE-ALPES-COTE D'AZUR;43.9438247681;6.17105388641;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;12
+67;4085;Faucon-du-Caire;4250;Faucon-du-Caire;93;PROVENCE-ALPES-COTE D'AZUR;44.3975563049;6.09197807312;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+68;4086;Faucon-de-Barcelonnette;4400;Faucon-de-Barcelonnette;93;PROVENCE-ALPES-COTE D'AZUR;44.3937034607;6.67817020416;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC VallÃ©e de l'Ubaye - Serre-PonÃ§on;1;1
+69;4087;Fontienne;4230;Fontienne;93;PROVENCE-ALPES-COTE D'AZUR;44.009279;5.794377;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Pays Forcalquier et Montagne de Lure;4;6
+70;4088;Forcalquier;4300;Forcalquier;93;PROVENCE-ALPES-COTE D'AZUR;43.9594993591;5.7808098793;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Pays Forcalquier et Montagne de Lure;4;6
+71;4090;Le Fugeret;4240;Le Fugeret;93;PROVENCE-ALPES-COTE D'AZUR;44.003562;6.641248;9307;Nice;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+72;4091;Ganagobie;4310;Ganagobie;93;PROVENCE-ALPES-COTE D'AZUR;44.0095596313;5.9168920517;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;3
+73;4092;La Garde;4120;La Garde;93;PROVENCE-ALPES-COTE D'AZUR;43.8302536011;6.55742120743;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+74;4093;Gigors;4250;Gigors;93;PROVENCE-ALPES-COTE D'AZUR;44.4189720154;6.15969514847;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+75;4094;GrÃ©oux-les-Bains;4800;GrÃ©oux-les-Bains;93;PROVENCE-ALPES-COTE D'AZUR;43.75833;5.884393;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;15
+76;4095;L'Hospitalet;4150;L'Hospitalet;93;PROVENCE-ALPES-COTE D'AZUR;44.0873260498;5.69923496246;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+77;4096;Jausiers;4850;Jausiers;93;PROVENCE-ALPES-COTE D'AZUR;44.419576;6.733329;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC VallÃ©e de l'Ubaye - Serre-PonÃ§on;1;1
+78;4097;La Javie;4420;La Javie;93;PROVENCE-ALPES-COTE D'AZUR;44.1753044128;6.34948921204;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;13
+79;4099;Lambruisse;4170;Lambruisse;93;PROVENCE-ALPES-COTE D'AZUR;44.047796;6.443669;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+80;4101;Lardiers;4230;Lardiers;93;PROVENCE-ALPES-COTE D'AZUR;44.0572357178;5.71243476868;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Pays Forcalquier et Montagne de Lure;4;6
+81;4102;Le Lauzet-Ubaye;4340;Le Lauzet-Ubaye;93;PROVENCE-ALPES-COTE D'AZUR;44.4282875061;6.43507003784;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC VallÃ©e de l'Ubaye - Serre-PonÃ§on;1;1
+82;4104;Limans;4300;Limans;93;PROVENCE-ALPES-COTE D'AZUR;43.985168457;5.73100185394;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Pays Forcalquier et Montagne de Lure;4;6
+83;4106;Lurs;4700;Lurs;93;PROVENCE-ALPES-COTE D'AZUR;43.9687347412;5.88967323303;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Pays Forcalquier et Montagne de Lure;4;6
+84;4107;Majastres;4270;Majastres;93;PROVENCE-ALPES-COTE D'AZUR;43.9136505127;6.28891706467;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;12
+85;4108;Malijai;4350;Malijai;93;PROVENCE-ALPES-COTE D'AZUR;44.0580596924;6.0978012085;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;5
+86;4109;Mallefougasse-AugÃ¨s;4230;Mallefougasse-AugÃ¨s;93;PROVENCE-ALPES-COTE D'AZUR;44.0656608;5.8991274;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;6
+87;4110;Mallemoisson;4510;Mallemoisson;93;PROVENCE-ALPES-COTE D'AZUR;44.0423927307;6.12560081482;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;5
+88;4111;Mane;4300;Mane;93;PROVENCE-ALPES-COTE D'AZUR;43.9371986389;5.76671981812;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+89;4112;Manosque;4101;Manosque Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.8338012695;5.78252983093;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;99
+90;4113;Marcoux;4420;Marcoux;93;PROVENCE-ALPES-COTE D'AZUR;44.1287841797;6.27604389191;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;4
+91;4115;MÃ©ailles;4240;MÃ©ailles;93;PROVENCE-ALPES-COTE D'AZUR;44.0229187012;6.63079690933;9307;Nice;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+92;4116;Les MÃ©es;4190;Les MÃ©es;93;PROVENCE-ALPES-COTE D'AZUR;44.0303001404;5.97341012955;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;10
+93;4118;Melve;4250;Melve;93;PROVENCE-ALPES-COTE D'AZUR;44.3547096252;5.99043321609;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+94;4120;Meyronnes;4530;Meyronnes;93;PROVENCE-ALPES-COTE D'AZUR;44.4748573303;6.80057811737;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC VallÃ©e de l'Ubaye - Serre-PonÃ§on;1;1
+95;4121;MÃ©zel;4270;MÃ©zel;93;PROVENCE-ALPES-COTE D'AZUR;43.9973869324;6.19651889801;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;12
+96;4122;Mirabeau;4510;Mirabeau;93;PROVENCE-ALPES-COTE D'AZUR;44.0635223389;6.08834314346;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;5
+97;4123;Mison;4200;Mison;93;PROVENCE-ALPES-COTE D'AZUR;44.2670613;5.8590807;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;14
+98;4124;Montagnac-Montpezat;4500;Montagnac-Montpezat;93;PROVENCE-ALPES-COTE D'AZUR;43.7796897888;6.09536790848;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;15
+99;4126;Montclar;4140;Montclar;93;PROVENCE-ALPES-COTE D'AZUR;44.3974304199;6.33355379105;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;13
+100;4127;Montfort;4600;Montfort;93;PROVENCE-ALPES-COTE D'AZUR;44.063834;5.971967;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Jabron-Lure-VanÃ§on-Durance;4;3
+101;4128;Montfuron;4110;Montfuron;93;PROVENCE-ALPES-COTE D'AZUR;43.8357509;5.694528;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;7
+102;4129;Montjustin;4110;Montjustin;93;PROVENCE-ALPES-COTE D'AZUR;43.847502;5.643371;9316;Cavaillon - Apt;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+103;4130;Montlaux;4230;Montlaux;93;PROVENCE-ALPES-COTE D'AZUR;43.9975395203;5.84110593796;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Pays Forcalquier et Montagne de Lure;4;6
+104;4132;Montsalier;4150;Montsalier;93;PROVENCE-ALPES-COTE D'AZUR;44.0123672485;5.60914516449;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+105;4133;Moriez;4170;Moriez;93;PROVENCE-ALPES-COTE D'AZUR;43.961827;6.469849;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+106;4134;La Motte-du-Caire;4250;La Motte-du-Caire;93;PROVENCE-ALPES-COTE D'AZUR;44.3437995911;6.02766990662;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+107;4135;Moustiers-Sainte-Marie;4360;Moustiers-Sainte-Marie;93;PROVENCE-ALPES-COTE D'AZUR;43.8466835022;6.22184801102;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;12
+108;4136;La Mure-Argens;4170;La Mure-Argens;93;PROVENCE-ALPES-COTE D'AZUR;44.0952987671;6.55632019043;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+109;4137;Nibles;4250;Nibles;93;PROVENCE-ALPES-COTE D'AZUR;44.2816848755;6.01887989044;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+110;4138;Niozelles;4300;Niozelles;93;PROVENCE-ALPES-COTE D'AZUR;43.936605;5.83956;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Pays Forcalquier et Montagne de Lure;4;6
+111;4139;Noyers-sur-Jabron;4200;Noyers-sur-Jabron;93;PROVENCE-ALPES-COTE D'AZUR;44.168575;5.828883;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Jabron-Lure-VanÃ§on-Durance;4;14
+112;4140;Les Omergues;4200;Les Omergues;93;PROVENCE-ALPES-COTE D'AZUR;44.1720085144;5.60908889771;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Jabron-Lure-VanÃ§on-Durance;4;14
+113;4141;Ongles;4230;Ongles;93;PROVENCE-ALPES-COTE D'AZUR;44.0281982422;5.73311185837;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Pays Forcalquier et Montagne de Lure;4;6
+114;4142;Oppedette;4110;Oppedette;93;PROVENCE-ALPES-COTE D'AZUR;43.9349937439;5.59056091309;9316;Cavaillon - Apt;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+115;4143;Oraison;4700;Oraison;93;PROVENCE-ALPES-COTE D'AZUR;43.9177017212;5.91822004318;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;10
+116;4144;La Palud-sur-Verdon;4120;La Palud-sur-Verdon;93;PROVENCE-ALPES-COTE D'AZUR;43.7769470215;6.33928585052;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;12
+117;4145;Peipin;4200;Peipin;93;PROVENCE-ALPES-COTE D'AZUR;44.1355321;5.9571477;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Jabron-Lure-VanÃ§on-Durance;4;14
+118;4148;Peyroules;4120;Peyroules;93;PROVENCE-ALPES-COTE D'AZUR;43.8150859;6.642352;9305;Cannes - Antibes;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+119;4149;Peyruis;4310;Peyruis;93;PROVENCE-ALPES-COTE D'AZUR;44.0272426;5.9371075;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;3
+120;4150;PiÃ©gut;5130;PiÃ©gut;93;PROVENCE-ALPES-COTE D'AZUR;44.4547339;6.1284389;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Serre-PonÃ§on Val d'Avance;4;13
+121;4151;Pierrerue;4300;Pierrerue;93;PROVENCE-ALPES-COTE D'AZUR;43.954875946;5.83408498764;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Pays Forcalquier et Montagne de Lure;4;6
+122;4152;Pierrevert;4860;Pierrevert;93;PROVENCE-ALPES-COTE D'AZUR;43.8100013733;5.75051021576;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;7
+123;4154;Pontis;5160;Pontis;93;PROVENCE-ALPES-COTE D'AZUR;44.5037994385;6.3576540947;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Serre-PonÃ§on;1;1
+124;4155;Prads-Haute-BlÃ©one;4420;Prads-Haute-BlÃ©one;93;PROVENCE-ALPES-COTE D'AZUR;44.2197265625;6.44176483154;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;13
+125;4156;Puimichel;4700;Puimichel;93;PROVENCE-ALPES-COTE D'AZUR;43.974564;6.020715;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;12
+126;4157;Puimoisson;4410;Puimoisson;93;PROVENCE-ALPES-COTE D'AZUR;43.8357162476;6.13550901413;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;12
+127;4158;Quinson;4500;Quinson;93;PROVENCE-ALPES-COTE D'AZUR;43.7022018433;6.03911018372;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;15
+128;4159;Redortiers;4150;Redortiers;93;PROVENCE-ALPES-COTE D'AZUR;44.1043891907;5.61933612823;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+129;4160;Reillanne;4110;Reillanne;93;PROVENCE-ALPES-COTE D'AZUR;43.8795013428;5.66025018692;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+130;4161;MÃ©olans-Revel;4340;MÃ©olans-Revel;93;PROVENCE-ALPES-COTE D'AZUR;44.4015541077;6.51174879074;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC VallÃ©e de l'Ubaye - Serre-PonÃ§on;1;1
+131;4162;Revest-des-Brousses;4150;Revest-des-Brousses;93;PROVENCE-ALPES-COTE D'AZUR;43.9708786011;5.67157316208;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+132;4163;Revest-du-Bion;4150;Revest-du-Bion;93;PROVENCE-ALPES-COTE D'AZUR;44.0827674866;5.54798412323;9316;Cavaillon - Apt;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+133;4164;Revest-Saint-Martin;4230;Revest-Saint-Martin;93;PROVENCE-ALPES-COTE D'AZUR;44.010938;5.826517;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Pays Forcalquier et Montagne de Lure;4;6
+134;4166;Riez;4500;Riez;93;PROVENCE-ALPES-COTE D'AZUR;43.8186950684;6.09076690674;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;12
+135;4167;La Robine-sur-Galabre;4000;La Robine-sur-Galabre;93;PROVENCE-ALPES-COTE D'AZUR;44.170501709;6.21730613708;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;4
+136;4169;La Rochegiron;4150;La Rochegiron;93;PROVENCE-ALPES-COTE D'AZUR;44.0756072998;5.65518283844;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+137;4170;La Rochette;6260;La Rochette;93;PROVENCE-ALPES-COTE D'AZUR;43.9154547;6.8914245;9307;Nice;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+138;4171;Rougon;4120;Rougon;93;PROVENCE-ALPES-COTE D'AZUR;43.799253;6.402351;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+139;4172;Roumoules;4500;Roumoules;93;PROVENCE-ALPES-COTE D'AZUR;43.8254013062;6.13077020645;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;12
+140;4173;Saint-AndrÃ©-les-Alpes;4170;Saint-AndrÃ©-les-Alpes;93;PROVENCE-ALPES-COTE D'AZUR;43.9673106;6.5087678;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+141;4174;Saint-BenoÃ®t;4240;Saint-BenoÃ®t;93;PROVENCE-ALPES-COTE D'AZUR;43.968006134;6.72373819351;9307;Nice;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+142;4175;Sainte-Croix-Ã -Lauze;4110;Sainte-Croix-Ã -Lauze;93;PROVENCE-ALPES-COTE D'AZUR;43.90858;5.616387;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+143;4176;Sainte-Croix-du-Verdon;4500;Sainte-Croix-du-Verdon;93;PROVENCE-ALPES-COTE D'AZUR;43.7595329285;6.15182113647;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;15
+144;4177;Hautes-Duyes;4380;Hautes-Duyes;93;PROVENCE-ALPES-COTE D'AZUR;44.191342;6.170232;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;4
+145;4178;Saint-Ã‰tienne-les-Orgues;4230;Saint-Ã‰tienne-les-Orgues;93;PROVENCE-ALPES-COTE D'AZUR;44.0453987122;5.78011989594;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Pays Forcalquier et Montagne de Lure;4;6
+146;4179;Saint-Geniez;4200;Saint-Geniez;93;PROVENCE-ALPES-COTE D'AZUR;44.245562;6.05248;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;14
+147;4180;Saint-Jacques;4330;Saint-Jacques;93;PROVENCE-ALPES-COTE D'AZUR;43.9691581726;6.37529420853;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;12
+148;4181;Saint-Jeannet;4270;Saint-Jeannet;93;PROVENCE-ALPES-COTE D'AZUR;43.9634361267;6.12855815887;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;12
+149;4182;Saint-Julien-d'Asse;4270;Saint-Julien-d'Asse;93;PROVENCE-ALPES-COTE D'AZUR;43.917384;6.092072;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;12
+150;4183;Saint-Julien-du-Verdon;4170;Saint-Julien-du-Verdon;93;PROVENCE-ALPES-COTE D'AZUR;43.9141273499;6.54164600372;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+151;4184;Saint-Jurs;4410;Saint-Jurs;93;PROVENCE-ALPES-COTE D'AZUR;43.898109436;6.19984722137;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;12
+152;4186;Saint-Laurent-du-Verdon;4500;Saint-Laurent-du-Verdon;93;PROVENCE-ALPES-COTE D'AZUR;43.7245063782;6.06821393967;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;15
+153;4187;Saint-Lions;4330;Saint-Lions;93;PROVENCE-ALPES-COTE D'AZUR;43.9853172302;6.39934110641;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;12
+154;4188;Saint-Maime;4300;Saint-Maime;93;PROVENCE-ALPES-COTE D'AZUR;43.903011322;5.79525995255;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+155;4189;Saint-Martin-de-BrÃ´mes;4800;Saint-Martin-de-BrÃ´mes;93;PROVENCE-ALPES-COTE D'AZUR;43.7702522278;5.94462203979;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;15
+156;4190;Saint-Martin-les-Eaux;4300;Saint-Martin-les-Eaux;93;PROVENCE-ALPES-COTE D'AZUR;43.8750991821;5.73338985443;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;8
+157;4191;Saint-Martin-lÃ¨s-Seyne;4140;Saint-Martin-lÃ¨s-Seyne;93;PROVENCE-ALPES-COTE D'AZUR;44.385881;6.25706;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;13
+158;4192;Saint-Michel-l'Observatoire;4870;Saint-Michel-l'Observatoire;93;PROVENCE-ALPES-COTE D'AZUR;43.9092139;5.7162816;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+159;4193;Saint-Paul-sur-Ubaye;4530;Saint-Paul-sur-Ubaye;93;PROVENCE-ALPES-COTE D'AZUR;44.5148010254;6.74991989136;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC VallÃ©e de l'Ubaye - Serre-PonÃ§on;1;1
+160;4194;Saint-Pierre;6260;Saint-Pierre;93;PROVENCE-ALPES-COTE D'AZUR;43.913052;6.923962;9307;Nice;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+161;4195;Saint-Pons;4400;Saint-Pons;93;PROVENCE-ALPES-COTE D'AZUR;44.3922042847;6.62841176987;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC VallÃ©e de l'Ubaye - Serre-PonÃ§on;1;1
+162;4197;Sainte-Tulle;4220;Sainte-Tulle;93;PROVENCE-ALPES-COTE D'AZUR;43.7863006592;5.76748991013;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;9
+163;4199;Saint-Vincent-sur-Jabron;4200;Saint-Vincent-sur-Jabron;93;PROVENCE-ALPES-COTE D'AZUR;44.1706008911;5.74211978912;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Jabron-Lure-VanÃ§on-Durance;4;14
+164;4200;Salignac;4290;Salignac;93;PROVENCE-ALPES-COTE D'AZUR;44.1573566;5.984447;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Jabron-Lure-VanÃ§on-Durance;4;14
+165;4201;Saumane;4150;Saumane;93;PROVENCE-ALPES-COTE D'AZUR;44.0920829773;5.69087219238;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+166;4202;Sausses;4320;Sausses;93;PROVENCE-ALPES-COTE D'AZUR;44.0082855225;6.7808880806;9307;Nice;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+167;4203;Selonnet;4140;Selonnet;93;PROVENCE-ALPES-COTE D'AZUR;44.371093;6.312353;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;13
+168;4204;Senez;4330;Senez;93;PROVENCE-ALPES-COTE D'AZUR;43.9141235352;6.40624904633;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;12
+169;4205;Seyne-les-Alpes;4140;Seyne-les-Alpes;93;PROVENCE-ALPES-COTE D'AZUR;44.3511009216;6.35526990891;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;13
+170;4206;Sigonce;4300;Sigonce;93;PROVENCE-ALPES-COTE D'AZUR;43.997001;5.840755;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Pays Forcalquier et Montagne de Lure;4;6
+171;4207;Sigoyer;4200;Sigoyer;93;PROVENCE-ALPES-COTE D'AZUR;44.3186836243;5.95877695084;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+172;4208;Simiane-la-Rotonde;4150;Simiane-la-Rotonde;93;PROVENCE-ALPES-COTE D'AZUR;43.9807014465;5.56187009811;9316;Cavaillon - Apt;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+173;4209;Sisteron;4200;Sisteron;93;PROVENCE-ALPES-COTE D'AZUR;44.1949005127;5.94269990921;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;14
+174;4210;Soleilhas;4120;Soleilhas;93;PROVENCE-ALPES-COTE D'AZUR;43.8569908142;6.64974308014;9307;Nice;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+175;4211;Sourribes;4290;Sourribes;93;PROVENCE-ALPES-COTE D'AZUR;44.1474876404;6.01553297043;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Jabron-Lure-VanÃ§on-Durance;4;14
+176;4214;Tartonne;4330;Tartonne;93;PROVENCE-ALPES-COTE D'AZUR;44.070548;6.388269;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;12
+177;4216;ThÃ¨ze;4200;ThÃ¨ze;93;PROVENCE-ALPES-COTE D'AZUR;44.320061;5.924602;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+178;4217;Thoard;4380;Thoard;93;PROVENCE-ALPES-COTE D'AZUR;44.1503753662;6.14889287949;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;4
+179;4218;Thorame-Basse;4170;Thorame-Basse;93;PROVENCE-ALPES-COTE D'AZUR;44.0908203125;6.49931383133;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+180;4219;Thorame-Haute;4170;Thorame-Haute;93;PROVENCE-ALPES-COTE D'AZUR;44.0971488953;6.55540323257;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+181;4220;Les Thuiles;4400;Les Thuiles;93;PROVENCE-ALPES-COTE D'AZUR;44.3934020996;6.57057189941;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC VallÃ©e de l'Ubaye - Serre-PonÃ§on;1;1
+182;4222;Turriers;4250;Turriers;93;PROVENCE-ALPES-COTE D'AZUR;44.4014129639;6.1684718132;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+183;4224;Ubraye;4240;Ubraye;93;PROVENCE-ALPES-COTE D'AZUR;43.9083518982;6.69632482529;9307;Nice;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+184;4226;Uvernet-Fours;4400;Uvernet-Fours;93;PROVENCE-ALPES-COTE D'AZUR;44.3591346741;6.62754583359;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC VallÃ©e de l'Ubaye - Serre-PonÃ§on;1;1
+185;4227;VachÃ¨res;4110;VachÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;43.9311099;5.637707;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+186;4228;Valavoire;4250;Valavoire;93;PROVENCE-ALPES-COTE D'AZUR;44.27908;6.066376;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+187;4229;Valbelle;4200;Valbelle;93;PROVENCE-ALPES-COTE D'AZUR;44.1509895325;5.87633991241;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Jabron-Lure-VanÃ§on-Durance;4;14
+188;4230;Valensole;4210;Valensole;93;PROVENCE-ALPES-COTE D'AZUR;43.837600708;5.98710012436;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;15
+189;4231;Valernes;4200;Valernes;93;PROVENCE-ALPES-COTE D'AZUR;44.2616920471;5.95892000198;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+190;4233;Vaumeilh;4200;Vaumeilh;93;PROVENCE-ALPES-COTE D'AZUR;44.288618;5.95779;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC du Sisteronais-BuÃ«ch;4;13
+191;4234;Venterol;5130;Venterol;93;PROVENCE-ALPES-COTE D'AZUR;44.4447097778;6.09953308105;9304;Gap;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Serre-PonÃ§on Val d'Avance;4;13
+192;4235;Verdaches;4140;Verdaches;93;PROVENCE-ALPES-COTE D'AZUR;44.2631835938;6.34111213684;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;13
+193;4236;Vergons;4170;Vergons;93;PROVENCE-ALPES-COTE D'AZUR;43.9133682251;6.58890676498;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+194;4237;Le Vernet;4140;Le Vernet;93;PROVENCE-ALPES-COTE D'AZUR;44.2774200439;6.38946294785;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;13
+195;4240;Villars-Colmars;4370;Villars-Colmars;93;PROVENCE-ALPES-COTE D'AZUR;44.1665802002;6.60637187958;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;"""CC Alpes-Provence-Verdon """"Sources de lumiÃ¨re""""""";2;2
+196;4241;Villemus;4110;Villemus;93;PROVENCE-ALPES-COTE D'AZUR;43.8592758179;5.70096588135;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CC Haute-Provence-Pays de Banon;4;11
+197;4242;Villeneuve;4180;Villeneuve;93;PROVENCE-ALPES-COTE D'AZUR;43.8944436;5.8611957;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;10
+198;4244;Volonne;4290;Volonne;93;PROVENCE-ALPES-COTE D'AZUR;44.1111023;6.0136923;9301;Digne-les-Bains;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Provence-Alpes-AgglomÃ©ration;3;3
+199;4245;Volx;4130;Volx;93;PROVENCE-ALPES-COTE D'AZUR;43.8769989014;5.84197998047;9302;Manosque;Aix-Marseille;4;ALPES-DE-HAUTE-PROVENCE;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;4;8
+202;5004;Ancelle;5260;Ancelle;93;PROVENCE-ALPES-COTE D'AZUR;44.6238861084;6.20542001724;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+205;5008;Aspremont;5140;Aspremont;93;PROVENCE-ALPES-COTE D'AZUR;44.4924507141;5.7280049324;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;13
+206;5009;Aspres-lÃ¨s-Corps;5800;Aspres-lÃ¨s-Corps;93;PROVENCE-ALPES-COTE D'AZUR;44.8016662598;5.98105812073;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+207;5010;Aspres-sur-BuÃ«ch;5140;Aspres-sur-BuÃ«ch;93;PROVENCE-ALPES-COTE D'AZUR;44.5220985413;5.75262022018;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;13
+208;5011;AvanÃ§on;5230;AvanÃ§on;93;PROVENCE-ALPES-COTE D'AZUR;44.525534;6.185435;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on Val d'Avance;2;14
+209;5012;Baratier;5200;Baratier;93;PROVENCE-ALPES-COTE D'AZUR;44.538643;6.4957035;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;5
+210;5013;Barcillonnette;5110;Barcillonnette;93;PROVENCE-ALPES-COTE D'AZUR;44.4350852966;5.91923713684;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CA Gap-Tallard-Durance;2;14
+211;5014;Barret-sur-MÃ©ouge;5300;Barret-sur-MÃ©ouge;93;PROVENCE-ALPES-COTE D'AZUR;44.2615013123;5.73504018784;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;11
+212;5016;La BÃ¢tie-MontsalÃ©on;5700;La BÃ¢tie-MontsalÃ©on;93;PROVENCE-ALPES-COTE D'AZUR;44.4558448792;5.75111818314;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+213;5017;La BÃ¢tie-Neuve;5230;La BÃ¢tie-Neuve;93;PROVENCE-ALPES-COTE D'AZUR;44.5655708313;6.195707798;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on Val d'Avance;2;4
+214;5018;La BÃ¢tie-Vieille;5000;La BÃ¢tie-Vieille;93;PROVENCE-ALPES-COTE D'AZUR;44.5532226562;6.1632027626;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on Val d'Avance;2;14
+215;5019;La Beaume;5140;La Beaume;93;PROVENCE-ALPES-COTE D'AZUR;44.5539741516;5.63649511337;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;13
+216;5021;Le Bersac;5700;Le Bersac;93;PROVENCE-ALPES-COTE D'AZUR;44.4118629;5.750465;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+217;5022;BrÃ©ziers;5190;BrÃ©ziers;93;PROVENCE-ALPES-COTE D'AZUR;44.4275283813;6.19955015182;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on Val d'Avance;2;4
+219;5024;Valdoule;5150;Bruis;93;PROVENCE-ALPES-COTE D'AZUR;44.4675559998;5.51379203796;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+220;5025;Buissard;5500;Buissard;93;PROVENCE-ALPES-COTE D'AZUR;44.6571273804;6.14544677734;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+223;5028;Chabestan;5400;Chabestan;93;PROVENCE-ALPES-COTE D'AZUR;44.4780693054;5.78297901154;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;13
+224;5029;Chabottes;5260;Chabottes;93;PROVENCE-ALPES-COTE D'AZUR;44.6551742554;6.17610406876;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+226;5032;ChampolÃ©on;5260;ChampolÃ©on;93;PROVENCE-ALPES-COTE D'AZUR;44.7206115723;6.25925111771;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+227;5033;Chanousse;5700;Chanousse;93;PROVENCE-ALPES-COTE D'AZUR;44.356016;5.656797;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+228;5035;ChÃ¢teauneuf-d'Oze;5400;ChÃ¢teauneuf-d'Oze;93;PROVENCE-ALPES-COTE D'AZUR;44.5120353699;5.86455392838;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;15
+229;5036;ChÃ¢teauroux-les-Alpes;5380;ChÃ¢teauroux-les-Alpes;93;PROVENCE-ALPES-COTE D'AZUR;44.6138687134;6.52092981339;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;5
+230;5037;ChÃ¢teauvieux;5000;ChÃ¢teauvieux;93;PROVENCE-ALPES-COTE D'AZUR;44.4843559265;6.05084609985;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CA Gap-Tallard-Durance;2;14
+232;5039;Aubessagne;5800;Chauffayer;93;PROVENCE-ALPES-COTE D'AZUR;44.752368927;6.0087480545;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+233;5040;Chorges;5230;Chorges;93;PROVENCE-ALPES-COTE D'AZUR;44.545716;6.275548;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;4
+234;5043;Aubessagne;5500;Les Costes;93;PROVENCE-ALPES-COTE D'AZUR;44.7456169128;6.03348493576;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+235;5044;CrÃ©voux;5200;CrÃ©voux;93;PROVENCE-ALPES-COTE D'AZUR;44.5481491089;6.60892009735;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;5
+236;5045;Crots;5200;Crots;93;PROVENCE-ALPES-COTE D'AZUR;44.5341758728;6.47116613388;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;5
+237;5046;Embrun;5208;Embrun Cedex;93;PROVENCE-ALPES-COTE D'AZUR;44.5644378662;6.49561500549;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;5
+238;5047;Ã‰ourres;5300;Ã‰ourres;93;PROVENCE-ALPES-COTE D'AZUR;44.2133619;5.698618;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;11
+239;5048;L'Ã‰pine;5700;L'Ã‰pine;93;PROVENCE-ALPES-COTE D'AZUR;44.41664505;5.61563396454;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+240;5049;Esparron;5110;Esparron;93;PROVENCE-ALPES-COTE D'AZUR;44.4535259;5.903086;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CA Gap-Tallard-Durance;2;14
+241;5050;Espinasses;5190;Espinasses;93;PROVENCE-ALPES-COTE D'AZUR;44.4677505493;6.2187628746;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on Val d'Avance;2;4
+242;5051;Ã‰toile-Saint-Cyrice;5700;Ã‰toile-Saint-Cyrice;93;PROVENCE-ALPES-COTE D'AZUR;44.3165054321;5.62834405899;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+244;5053;Garde-Colombe;5300;Garde-Colombe;93;PROVENCE-ALPES-COTE D'AZUR;44.345419;5.772318;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+245;5054;La Fare-en-Champsaur;5500;La Fare-en-Champsaur;93;PROVENCE-ALPES-COTE D'AZUR;44.675365448;6.07217407227;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+246;5055;La Faurie;5140;La Faurie;93;PROVENCE-ALPES-COTE D'AZUR;44.520275116;5.75483083725;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;13
+247;5056;Forest-Saint-Julien;5260;Forest-Saint-Julien;93;PROVENCE-ALPES-COTE D'AZUR;44.6451225281;6.13068723679;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+248;5057;Fouillouse;5130;Fouillouse;93;PROVENCE-ALPES-COTE D'AZUR;44.4579849243;6.00276994705;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CA Gap-Tallard-Durance;2;14
+250;5059;La Freissinouse;5000;La Freissinouse;93;PROVENCE-ALPES-COTE D'AZUR;44.5417328;6.0142829;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CA Gap-Tallard-Durance;2;14
+251;5060;Furmeyer;5400;Furmeyer;93;PROVENCE-ALPES-COTE D'AZUR;44.53984;5.8727029;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;15
+252;5061;Gap;5000;Gap;93;PROVENCE-ALPES-COTE D'AZUR;44.5588569641;6.07951498032;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CA Gap-Tallard-Durance;2;99
+253;5062;Le Glaizil;5800;Le Glaizil;93;PROVENCE-ALPES-COTE D'AZUR;44.7538108826;5.9839758873;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+255;5064;La Chapelle-en-ValgaudÃ©mar;5800;La Chapelle-en-ValgaudÃ©mar;93;PROVENCE-ALPES-COTE D'AZUR;44.816493988;6.19497919083;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+257;5066;La Haute-Beaume;5140;La Haute-Beaume;93;PROVENCE-ALPES-COTE D'AZUR;44.5642967224;5.6301407814;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;13
+258;5068;Jarjayes;5130;Jarjayes;93;PROVENCE-ALPES-COTE D'AZUR;44.5044708252;6.10998392105;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CA Gap-Tallard-Durance;2;14
+259;5070;Laragne-MontÃ©glin;5300;Laragne-MontÃ©glin;93;PROVENCE-ALPES-COTE D'AZUR;44.3153457642;5.8213558197;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;11
+260;5071;Lardier-et-ValenÃ§a;5110;Lardier-et-ValenÃ§a;93;PROVENCE-ALPES-COTE D'AZUR;44.4356857;5.98132759;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CA Gap-Tallard-Durance;2;14
+261;5072;Laye;5500;Laye;93;PROVENCE-ALPES-COTE D'AZUR;44.6620254517;6.08355093002;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+262;5073;Lazer;5300;Lazer;93;PROVENCE-ALPES-COTE D'AZUR;44.3482475281;5.8372502327;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;11
+263;5074;Lettret;5130;Lettret;93;PROVENCE-ALPES-COTE D'AZUR;44.468181;6.061567;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CA Gap-Tallard-Durance;2;14
+264;5075;Manteyer;5400;Manteyer;93;PROVENCE-ALPES-COTE D'AZUR;44.537273407;5.96398115158;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;15
+265;5076;MÃ©reuil;5700;MÃ©reuil;93;PROVENCE-ALPES-COTE D'AZUR;44.3871498108;5.72993278503;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+267;5078;MonÃ©tier-Allemont;5110;MonÃ©tier-Allemont;93;PROVENCE-ALPES-COTE D'AZUR;44.386328;5.94371;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;11
+269;5080;Montbrand;5140;Montbrand;93;PROVENCE-ALPES-COTE D'AZUR;44.5854721069;5.69103193283;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;13
+270;5081;Montclus;5700;Montclus;93;PROVENCE-ALPES-COTE D'AZUR;44.4149131775;5.68396997452;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+272;5084;Montgardin;5230;Montgardin;93;PROVENCE-ALPES-COTE D'AZUR;44.5506668091;6.23939704895;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on Val d'Avance;2;4
+274;5086;Montjay;5150;Montjay;93;PROVENCE-ALPES-COTE D'AZUR;44.3598709106;5.60536193848;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+275;5087;Montmaur;5400;Montmaur;93;PROVENCE-ALPES-COTE D'AZUR;44.5708656311;5.87413883209;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;15
+276;5088;Valdoule;5150;Montmorin;93;PROVENCE-ALPES-COTE D'AZUR;44.4520835876;5.54284286499;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+277;5089;Montrond;5700;Montrond;93;PROVENCE-ALPES-COTE D'AZUR;44.3908958435;5.74079608917;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+278;5090;La Motte-en-Champsaur;5500;La Motte-en-Champsaur;93;PROVENCE-ALPES-COTE D'AZUR;44.7331047058;6.06938314438;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+279;5091;Moydans;5150;Moydans;93;PROVENCE-ALPES-COTE D'AZUR;44.399702;5.503793;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+280;5092;Neffes;5000;Neffes;93;PROVENCE-ALPES-COTE D'AZUR;44.5044708252;6.02252817154;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CA Gap-Tallard-Durance;2;14
+282;5094;Nossage-et-BÃ©nÃ©vent;5700;Nossage-et-BÃ©nÃ©vent;93;PROVENCE-ALPES-COTE D'AZUR;44.3139305115;5.7511677742;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+283;5095;Le Noyer;5500;Le Noyer;93;PROVENCE-ALPES-COTE D'AZUR;44.6977999;6.0121257;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+284;5096;OrciÃ¨res;5170;OrciÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;44.6838798523;6.32643222809;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+285;5097;Orpierre;5700;Orpierre;93;PROVENCE-ALPES-COTE D'AZUR;44.3134803772;5.69273805618;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+286;5098;Les Orres;5200;Les Orres;93;PROVENCE-ALPES-COTE D'AZUR;44.5139846802;6.54923820496;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;5
+287;5099;Oze;5400;Oze;93;PROVENCE-ALPES-COTE D'AZUR;44.5052986145;5.80523109436;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;13
+288;5100;Pelleautier;5000;Pelleautier;93;PROVENCE-ALPES-COTE D'AZUR;44.5164833069;6.01620388031;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CA Gap-Tallard-Durance;2;14
+291;5102;La Piarre;5700;La Piarre;93;PROVENCE-ALPES-COTE D'AZUR;44.4752807617;5.65537786484;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+292;5103;Le PoÃ«t;5300;Le PoÃ«t;93;PROVENCE-ALPES-COTE D'AZUR;44.292116;5.897282;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;11
+293;5104;Poligny;5500;Poligny;93;PROVENCE-ALPES-COTE D'AZUR;44.6917495728;6.04885578156;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+294;5106;PruniÃ¨res;5230;PruniÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;44.5413322449;6.33323001862;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;4
+296;5108;Puy-Saint-EusÃ¨be;5200;Puy-Saint-EusÃ¨be;93;PROVENCE-ALPES-COTE D'AZUR;44.563619;6.418333;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;4
+299;5111;Puy-SaniÃ¨res;5200;Puy-SaniÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;44.5568771362;6.43442487717;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;4
+300;5112;Rabou;5400;Rabou;93;PROVENCE-ALPES-COTE D'AZUR;44.5901069641;6.0050778389;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;15
+301;5113;Rambaud;5000;Rambaud;93;PROVENCE-ALPES-COTE D'AZUR;44.5450363159;6.13219022751;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on Val d'Avance;2;14
+302;5114;RÃ©allon;5160;RÃ©allon;93;PROVENCE-ALPES-COTE D'AZUR;44.595526;6.363359;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;4
+303;5115;Remollon;5190;Remollon;93;PROVENCE-ALPES-COTE D'AZUR;44.4679977;6.1678664;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on Val d'Avance;2;4
+305;5117;Ribeyret;5150;Ribeyret;93;PROVENCE-ALPES-COTE D'AZUR;44.4139213562;5.55438184738;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+306;5118;Val BuÃ«ch-MÃ©ouge;5300;Val BuÃ«ch-MÃ©ouge;93;PROVENCE-ALPES-COTE D'AZUR;44.2299842834;5.85728883743;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;11
+309;5121;Rochebrune;5190;Rochebrune;93;PROVENCE-ALPES-COTE D'AZUR;44.456379;6.176921;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on Val d'Avance;2;4
+311;5123;La Roche-des-Arnauds;5400;La Roche-des-Arnauds;93;PROVENCE-ALPES-COTE D'AZUR;44.5635948181;5.95891284943;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;15
+312;5124;La Rochette;5000;La Rochette;93;PROVENCE-ALPES-COTE D'AZUR;44.5939903259;6.15168619156;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on Val d'Avance;2;4
+313;5126;Rosans;5150;Rosans;93;PROVENCE-ALPES-COTE D'AZUR;44.391882;5.469992;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+314;5127;Rousset;5190;Rousset;93;PROVENCE-ALPES-COTE D'AZUR;44.4676307;6.2326089;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on Val d'Avance;2;4
+315;5128;Saint-AndrÃ©-d'Embrun;5200;Saint-AndrÃ©-d'Embrun;93;PROVENCE-ALPES-COTE D'AZUR;44.5864649;6.534764;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;5
+316;5129;Saint-AndrÃ©-de-Rosans;5150;Saint-AndrÃ©-de-Rosans;93;PROVENCE-ALPES-COTE D'AZUR;44.3775749207;5.51342582703;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+317;5130;Saint-Apollinaire;5160;Saint-Apollinaire;93;PROVENCE-ALPES-COTE D'AZUR;44.5553817749;6.36199998856;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;4
+318;5131;Saint-Auban-d'Oze;5400;Saint-Auban-d'Oze;93;PROVENCE-ALPES-COTE D'AZUR;44.4959754944;5.8467001915;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;13
+319;5132;Saint-Bonnet-en-Champsaur;5500;Saint-Bonnet-en-Champsaur;93;PROVENCE-ALPES-COTE D'AZUR;44.682800293;6.07632017136;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+322;5135;Sainte-Colombe;5700;Sainte-Colombe;93;PROVENCE-ALPES-COTE D'AZUR;44.2826423645;5.67006015778;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+324;5139;DÃ©voluy;5250;DÃ©voluy;93;PROVENCE-ALPES-COTE D'AZUR;44.6869003;5.9468617;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;15
+325;5140;Saint-Ã‰tienne-le-Laus;5130;Saint-Ã‰tienne-le-Laus;93;PROVENCE-ALPES-COTE D'AZUR;44.5009994507;6.16330003738;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on Val d'Avance;2;14
+326;5141;Aubessagne;5500;Saint-EusÃ¨be-en-Champsaur;93;PROVENCE-ALPES-COTE D'AZUR;44.7261009216;6.0277299881;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+327;5142;Saint-Firmin;5800;Saint-Firmin;93;PROVENCE-ALPES-COTE D'AZUR;44.7815437317;6.02789115906;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+328;5144;Saint-Jacques-en-Valgodemard;5800;Saint-Jacques-en-Valgodemard;93;PROVENCE-ALPES-COTE D'AZUR;44.7760009766;6.044069767;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+329;5145;Saint-Jean-Saint-Nicolas;5260;Saint-Jean-Saint-Nicolas;93;PROVENCE-ALPES-COTE D'AZUR;44.6668357849;6.2287478447;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+330;5146;Saint-Julien-en-BeauchÃªne;5140;Saint-Julien-en-BeauchÃªne;93;PROVENCE-ALPES-COTE D'AZUR;44.6156436;5.7076883;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;13
+331;5147;Saint-Julien-en-Champsaur;5500;Saint-Julien-en-Champsaur;93;PROVENCE-ALPES-COTE D'AZUR;44.659673;6.129129;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+332;5148;Saint-Laurent-du-Cros;5500;Saint-Laurent-du-Cros;93;PROVENCE-ALPES-COTE D'AZUR;44.6433906555;6.10955715179;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+333;5149;Saint-LÃ©ger-les-MÃ©lÃ¨zes;5260;Saint-LÃ©ger-les-MÃ©lÃ¨zes;93;PROVENCE-ALPES-COTE D'AZUR;44.6445999146;6.20032978058;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+334;5150;Valdoule;5150;Sainte-Marie;93;PROVENCE-ALPES-COTE D'AZUR;44.4660873413;5.47535276413;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+336;5152;Saint-Maurice-en-Valgodemard;5800;Saint-Maurice-en-Valgodemard;93;PROVENCE-ALPES-COTE D'AZUR;44.8041992188;6.09623003006;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+337;5153;Saint-Michel-de-Chaillol;5260;Saint-Michel-de-Chaillol;93;PROVENCE-ALPES-COTE D'AZUR;44.670024;6.175686;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+338;5154;Saint-Pierre-d'ArgenÃ§on;5140;Saint-Pierre-d'ArgenÃ§on;93;PROVENCE-ALPES-COTE D'AZUR;44.520275116;5.69814586639;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;13
+339;5155;Saint-Pierre-Avez;5300;Saint-Pierre-Avez;93;PROVENCE-ALPES-COTE D'AZUR;44.2560882568;5.76148891449;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;11
+340;5156;Saint-Sauveur;5200;Saint-Sauveur;93;PROVENCE-ALPES-COTE D'AZUR;44.541103363;6.52019309998;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;5
+342;5158;Le Saix;5400;Le Saix;93;PROVENCE-ALPES-COTE D'AZUR;44.4752502441;5.82396602631;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;13
+343;5159;SalÃ©on;5300;SalÃ©on;93;PROVENCE-ALPES-COTE D'AZUR;44.3618202209;5.77589988708;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+344;5160;SalÃ©rans;5300;SalÃ©rans;93;PROVENCE-ALPES-COTE D'AZUR;44.2430725098;5.70616388321;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;11
+346;5162;La Saulce;5110;La Saulce;93;PROVENCE-ALPES-COTE D'AZUR;44.4253883362;6.0077381134;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CA Gap-Tallard-Durance;2;14
+347;5163;Le Sauze-du-Lac;5160;Le Sauze-du-Lac;93;PROVENCE-ALPES-COTE D'AZUR;44.540654;6.335238;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;4
+348;5164;Savines-le-Lac;5160;Savines-le-Lac;93;PROVENCE-ALPES-COTE D'AZUR;44.5256816;6.4052563;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on;2;4
+349;5165;Savournon;5700;Savournon;93;PROVENCE-ALPES-COTE D'AZUR;44.4219207764;5.79453992844;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+350;5166;Serres;5700;Serres;93;PROVENCE-ALPES-COTE D'AZUR;44.4283447266;5.71439504623;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+351;5167;Sigottier;5700;Sigottier;93;PROVENCE-ALPES-COTE D'AZUR;44.454914093;5.69202423096;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+352;5168;Sigoyer;5130;Sigoyer;93;PROVENCE-ALPES-COTE D'AZUR;44.4777908325;5.97590112686;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;14
+353;5169;Sorbiers;5150;Sorbiers;93;PROVENCE-ALPES-COTE D'AZUR;44.3746185303;5.56372976303;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+354;5170;Tallard;5130;Tallard;93;PROVENCE-ALPES-COTE D'AZUR;44.4613609314;6.05620384216;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CA Gap-Tallard-Durance;2;14
+355;5171;ThÃ©us;5190;ThÃ©us;93;PROVENCE-ALPES-COTE D'AZUR;44.4771499634;6.18782901764;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on Val d'Avance;2;4
+356;5172;TresclÃ©oux;5700;TresclÃ©oux;93;PROVENCE-ALPES-COTE D'AZUR;44.354752;5.708368;9301;Digne-les-Bains;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;13
+357;5173;Upaix;5300;Upaix;93;PROVENCE-ALPES-COTE D'AZUR;44.3130569458;5.89127111435;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;11
+359;5176;Valserres;5130;Valserres;93;PROVENCE-ALPES-COTE D'AZUR;44.4890480042;6.12735700607;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Serre-PonÃ§on Val d'Avance;2;14
+361;5178;Ventavon;5300;Ventavon;93;PROVENCE-ALPES-COTE D'AZUR;44.3709182739;5.90567398071;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC du Sisteronais-BuÃ«ch;2;11
+362;5179;Veynes;5400;Veynes;93;PROVENCE-ALPES-COTE D'AZUR;44.5347557068;5.8242058754;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC BuÃ«ch-DÃ©voluy;2;15
+365;5182;Villar-LoubiÃ¨re;5800;Villar-LoubiÃ¨re;93;PROVENCE-ALPES-COTE D'AZUR;44.8255767822;6.14474010468;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CC Champsaur-Valgaudemar;2;12
+367;5184;Vitrolles;5110;Vitrolles;93;PROVENCE-ALPES-COTE D'AZUR;44.4127044678;5.95524501801;9304;Gap;Aix-Marseille;5;HAUTES-ALPES;CA Gap-Tallard-Durance;2;14
+368;6001;Aiglun;6910;Aiglun;93;PROVENCE-ALPES-COTE D'AZUR;43.8577346802;6.91463804245;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;1;26
+369;6002;Amirat;6910;Amirat;93;PROVENCE-ALPES-COTE D'AZUR;43.8906402588;6.82753896713;9307;Nice;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+370;6003;Andon;6750;Andon;93;PROVENCE-ALPES-COTE D'AZUR;43.773399353;6.7851099968;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+371;6004;Antibes;6606;Antibes Cedex 6;93;PROVENCE-ALPES-COTE D'AZUR;43.5806503296;7.12767219543;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;94
+372;6005;Ascros;6260;Ascros;93;PROVENCE-ALPES-COTE D'AZUR;43.920917511;7.01445579529;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+373;6006;Aspremont;6790;Aspremont;93;PROVENCE-ALPES-COTE D'AZUR;43.7864990234;7.24574995041;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+374;6007;Auribeau-sur-Siagne;6810;Auribeau-sur-Siagne;93;PROVENCE-ALPES-COTE D'AZUR;43.6004447937;6.91105318069;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;13
+375;6008;Auvare;6260;Auvare;93;PROVENCE-ALPES-COTE D'AZUR;43.9877891541;6.90763807297;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+376;6009;Bairols;6420;Bairols;93;PROVENCE-ALPES-COTE D'AZUR;43.9821510315;7.12682580948;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;26
+377;6010;Le Bar-sur-Loup;6620;Le Bar-sur-Loup;93;PROVENCE-ALPES-COTE D'AZUR;43.7013015747;6.98917007446;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;25
+378;6011;Beaulieu-sur-Mer;6310;Beaulieu-sur-Mer;93;PROVENCE-ALPES-COTE D'AZUR;43.7094307;7.3351238;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;4
+380;6013;BelvÃ©dÃ¨re;6450;BelvÃ©dÃ¨re;93;PROVENCE-ALPES-COTE D'AZUR;44.0144195557;7.32446813583;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+381;6014;Bendejun;6390;Bendejun;93;PROVENCE-ALPES-COTE D'AZUR;43.8100013733;7.31431007385;9307;Nice;Nice;6;ALPES-MARITIMES;CC du Pays des Paillons;2;10
+382;6015;Berre-les-Alpes;6390;Berre-les-Alpes;93;PROVENCE-ALPES-COTE D'AZUR;43.8301010132;7.32833003998;9307;Nice;Nice;6;ALPES-MARITIMES;CC du Pays des Paillons;2;10
+383;6016;Beuil;6470;Beuil;93;PROVENCE-ALPES-COTE D'AZUR;44.0947990417;6.98821020126;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+384;6017;BÃ©zaudun-les-Alpes;6510;BÃ©zaudun-les-Alpes;93;PROVENCE-ALPES-COTE D'AZUR;43.8088989258;7.09651994705;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;26
+385;6018;Sophia-Antipolis;6906;Sophia-Antipolis Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.6282594;7.0962443;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;3
+386;6019;Blausasc;6440;Blausasc;93;PROVENCE-ALPES-COTE D'AZUR;43.7703281;7.3470298;9307;Nice;Nice;6;ALPES-MARITIMES;CC du Pays des Paillons;2;10
+387;6020;La BollÃ¨ne-VÃ©subie;6450;La BollÃ¨ne-VÃ©subie;93;PROVENCE-ALPES-COTE D'AZUR;43.9908981323;7.33222007751;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+388;6021;Bonson;6830;Bonson;93;PROVENCE-ALPES-COTE D'AZUR;43.860083;7.182585;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;26
+389;6022;Bouyon;6510;Bouyon;93;PROVENCE-ALPES-COTE D'AZUR;43.8246002197;7.12226009369;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;26
+391;6024;BrianÃ§onnet;6850;BrianÃ§onnet;93;PROVENCE-ALPES-COTE D'AZUR;43.8646736145;6.75810194016;9307;Nice;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+392;6025;Le Broc;6510;Le Broc;93;PROVENCE-ALPES-COTE D'AZUR;43.808542;7.17074;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;1;17
+393;6026;Cabris;6530;Cabris;93;PROVENCE-ALPES-COTE D'AZUR;43.6558990479;6.875;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+394;6027;Cagnes-sur-Mer;6800;Cagnes-sur-Mer;93;PROVENCE-ALPES-COTE D'AZUR;43.6631011963;7.148250103;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;1;95
+395;6028;Caille;6750;Caille;93;PROVENCE-ALPES-COTE D'AZUR;43.7787017822;6.72909021378;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+396;6029;Cannes;6400;Cannes;93;PROVENCE-ALPES-COTE D'AZUR;43.551153;7.011752;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA Cannes Pays de LÃ©rins;1;96
+397;6030;Le Cannet;6115;Le Cannet Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.5704672;7.0165127;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA Cannes Pays de LÃ©rins;1;97
+398;6031;Cantaron;6340;Cantaron;93;PROVENCE-ALPES-COTE D'AZUR;43.7616004944;7.31821012497;9307;Nice;Nice;6;ALPES-MARITIMES;CC du Pays des Paillons;2;10
+400;6033;Carros;6510;Carros;93;PROVENCE-ALPES-COTE D'AZUR;43.7733001709;7.19161987305;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;1;17
+401;6034;Castagniers;6670;Castagniers;93;PROVENCE-ALPES-COTE D'AZUR;43.7905311584;7.23072004318;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+404;6037;Caussols;6460;Caussols;93;PROVENCE-ALPES-COTE D'AZUR;43.742477417;6.89961719513;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;25
+405;6038;ChÃ¢teauneuf;6740;ChÃ¢teauneuf;93;PROVENCE-ALPES-COTE D'AZUR;43.6749000549;6.97521018982;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;25
+406;6039;ChÃ¢teauneuf-Villevieille;6390;ChÃ¢teauneuf-Villevieille;93;PROVENCE-ALPES-COTE D'AZUR;43.8086013794;7.29645013809;9307;Nice;Nice;6;ALPES-MARITIMES;CC du Pays des Paillons;2;10
+407;6040;ChÃ¢teauneuf-d'Entraunes;6470;ChÃ¢teauneuf-d'Entraunes;93;PROVENCE-ALPES-COTE D'AZUR;44.128367;6.832522;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+408;6041;CipiÃ¨res;6620;CipiÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;43.7831993103;6.95580005646;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;25
+409;6042;Clans;6420;Clans;93;PROVENCE-ALPES-COTE D'AZUR;43.9945983887;7.14720010757;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+410;6043;Coaraze;6390;Coaraze;93;PROVENCE-ALPES-COTE D'AZUR;43.8650093079;7.29368782043;9307;Nice;Nice;6;ALPES-MARITIMES;CC du Pays des Paillons;2;10
+411;6044;La Colle-sur-Loup;6480;La Colle-sur-Loup;93;PROVENCE-ALPES-COTE D'AZUR;43.6866989136;7.10308980942;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;27
+412;6045;Collongues;6910;Collongues;93;PROVENCE-ALPES-COTE D'AZUR;43.8885269165;6.86320781708;9307;Nice;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+413;6046;Colomars;6670;Colomars;93;PROVENCE-ALPES-COTE D'AZUR;43.7627983093;7.22157001495;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+414;6047;ConsÃ©gudes;6510;ConsÃ©gudes;93;PROVENCE-ALPES-COTE D'AZUR;43.8437066;7.0474596;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;26
+415;6048;Contes;6390;Contes;93;PROVENCE-ALPES-COTE D'AZUR;43.8115997314;7.31477022171;9307;Nice;Nice;6;ALPES-MARITIMES;CC du Pays des Paillons;2;10
+416;6049;Courmes;6620;Courmes;93;PROVENCE-ALPES-COTE D'AZUR;43.7949981689;6.9433298111;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;25
+417;6050;Coursegoules;6140;Coursegoules;93;PROVENCE-ALPES-COTE D'AZUR;43.7225990295;7.11337995529;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;26
+418;6051;La Croix-sur-Roudoule;6260;La Croix-sur-Roudoule;93;PROVENCE-ALPES-COTE D'AZUR;43.9877929688;6.87483501434;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+419;6052;CuÃ©bris;6910;CuÃ©bris;93;PROVENCE-ALPES-COTE D'AZUR;43.886564;7.0201732;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+420;6053;Daluis;6470;Daluis;93;PROVENCE-ALPES-COTE D'AZUR;44.0227851868;6.81051111221;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+421;6054;Drap;6340;Drap;93;PROVENCE-ALPES-COTE D'AZUR;43.7576919;7.3206941;9307;Nice;Nice;6;ALPES-MARITIMES;CC du Pays des Paillons;2;10
+422;6055;Duranus;6670;Duranus;93;PROVENCE-ALPES-COTE D'AZUR;43.8942565918;7.25844621658;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+423;6056;Entraunes;6470;Entraunes;93;PROVENCE-ALPES-COTE D'AZUR;44.1882095337;6.74833488464;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+424;6057;L'EscarÃ¨ne;6440;L'EscarÃ¨ne;93;PROVENCE-ALPES-COTE D'AZUR;43.8339767456;7.35514497757;9307;Nice;Nice;6;ALPES-MARITIMES;CC du Pays des Paillons;2;10
+425;6058;Escragnolles;6460;Escragnolles;93;PROVENCE-ALPES-COTE D'AZUR;43.7312011719;6.78122901917;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+427;6060;Falicon;6950;Falicon;93;PROVENCE-ALPES-COTE D'AZUR;43.7487983704;7.2786397934;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+428;6061;Les Ferres;6510;Les Ferres;93;PROVENCE-ALPES-COTE D'AZUR;43.8466529846;7.09322881699;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;26
+430;6063;Gars;6850;Gars;93;PROVENCE-ALPES-COTE D'AZUR;43.8654972;6.8031697;9307;Nice;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+431;6064;GattiÃ¨res;6510;GattiÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;43.760405;7.17681;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;1;17
+432;6065;La Gaude;6610;La Gaude;93;PROVENCE-ALPES-COTE D'AZUR;43.7223542;7.1508607;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;1;6
+433;6066;Gilette;6830;Gilette;93;PROVENCE-ALPES-COTE D'AZUR;43.8503074646;7.16338777542;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;26
+435;6068;Gourdon;6620;Gourdon;93;PROVENCE-ALPES-COTE D'AZUR;43.719923;6.979338;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;25
+436;6069;Grasse;6131;Grasse Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.6585540771;6.92354679108;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;98
+437;6070;GrÃ©oliÃ¨res;6620;GrÃ©oliÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;43.7949981689;6.94339990616;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;25
+438;6071;Guillaumes;6470;Guillaumes;93;PROVENCE-ALPES-COTE D'AZUR;44.0888214111;6.85359287262;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+439;6072;Ilonse;6420;Ilonse;93;PROVENCE-ALPES-COTE D'AZUR;44.0322380066;7.09972190857;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+440;6073;Isola;6420;Isola;93;PROVENCE-ALPES-COTE D'AZUR;44.186000824;7.0527100563;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+441;6074;Lantosque;6450;Lantosque;93;PROVENCE-ALPES-COTE D'AZUR;43.9742383;7.3123753;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+442;6075;Levens;6670;Levens;93;PROVENCE-ALPES-COTE D'AZUR;43.8588981628;7.22633981705;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+443;6076;Lieuche;6260;Lieuche;93;PROVENCE-ALPES-COTE D'AZUR;43.9959907532;7.01585388184;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+444;6077;LucÃ©ram;6440;LucÃ©ram;93;PROVENCE-ALPES-COTE D'AZUR;43.8842010498;7.36069011688;9307;Nice;Nice;6;ALPES-MARITIMES;CC du Pays des Paillons;2;10
+445;6078;MalaussÃ¨ne;6710;MalaussÃ¨ne;93;PROVENCE-ALPES-COTE D'AZUR;43.9273376465;7.13111782074;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+446;6079;Mandelieu-la-Napoule;6212;Mandelieu-la-Napoule;93;PROVENCE-ALPES-COTE D'AZUR;43.5412750244;6.93329906464;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA Cannes Pays de LÃ©rins;1;13
+447;6080;Marie;6420;Marie;93;PROVENCE-ALPES-COTE D'AZUR;44.031866;7.134529;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+448;6081;Le Mas;6910;Le Mas;93;PROVENCE-ALPES-COTE D'AZUR;43.843082428;6.85876703262;9307;Nice;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+449;6082;Massoins;6710;Massoins;93;PROVENCE-ALPES-COTE D'AZUR;43.94101;7.125837;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+451;6084;Mouans-Sartoux;6371;Mouans-Sartoux Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.620458;6.970494;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;12
+452;6085;Mougins;6251;Mougins;93;PROVENCE-ALPES-COTE D'AZUR;43.5991627;6.9949521;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA Cannes Pays de LÃ©rins;1;9
+454;6087;Les Mujouls;6910;Les Mujouls;93;PROVENCE-ALPES-COTE D'AZUR;43.883556366;6.86236381531;9307;Nice;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+455;6088;Nice;6364;Nice;93;PROVENCE-ALPES-COTE D'AZUR;43.6961135864;7.27178192139;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;99
+456;6089;Opio;6650;Opio;93;PROVENCE-ALPES-COTE D'AZUR;43.6687715;6.9818897;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;25
+457;6090;PÃ©gomas;6580;PÃ©gomas;93;PROVENCE-ALPES-COTE D'AZUR;43.5936881;6.9285868;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;13
+459;6092;Peillon;6440;Peillon;93;PROVENCE-ALPES-COTE D'AZUR;43.7778491625;7.38109588623;9307;Nice;Nice;6;ALPES-MARITIMES;CC du Pays des Paillons;2;10
+460;6093;La Penne;6260;La Penne;93;PROVENCE-ALPES-COTE D'AZUR;43.9280779;6.9483801;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+461;6094;PÃ©one;6470;PÃ©one;93;PROVENCE-ALPES-COTE D'AZUR;44.1174507141;6.90758180618;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+462;6095;Peymeinade;6530;Peymeinade;93;PROVENCE-ALPES-COTE D'AZUR;43.6424443;6.8757247;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+463;6096;Pierlas;6260;Pierlas;93;PROVENCE-ALPES-COTE D'AZUR;44.031369;7.035473;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+464;6097;Pierrefeu;6910;Pierrefeu;93;PROVENCE-ALPES-COTE D'AZUR;43.8753318787;7.08194494247;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+465;6098;Puget-Rostang;6260;Puget-Rostang;93;PROVENCE-ALPES-COTE D'AZUR;43.9738731384;6.91723585129;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+466;6099;Puget-ThÃ©niers;6260;Puget-ThÃ©niers;93;PROVENCE-ALPES-COTE D'AZUR;43.9557991028;6.89373016357;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+467;6100;Revest-les-Roches;6830;Revest-les-Roches;93;PROVENCE-ALPES-COTE D'AZUR;43.881401062;7.15607023239;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+468;6101;Rigaud;6260;Rigaud;93;PROVENCE-ALPES-COTE D'AZUR;43.990239;6.991647;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+469;6102;Rimplas;6420;Rimplas;93;PROVENCE-ALPES-COTE D'AZUR;44.0632171631;7.13089895248;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+470;6103;RoquebilliÃ¨re;6450;RoquebilliÃ¨re;93;PROVENCE-ALPES-COTE D'AZUR;44.0120010376;7.30814981461;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+472;6105;Roquefort-les-Pins;6330;Roquefort-les-Pins;93;PROVENCE-ALPES-COTE D'AZUR;43.6737664;7.0383418;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;27
+473;6106;RoquestÃ©ron;6910;RoquestÃ©ron;93;PROVENCE-ALPES-COTE D'AZUR;43.8744010925;7.00744009018;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+474;6107;La Roque-en-Provence;6910;La Roque-en-Provence;93;PROVENCE-ALPES-COTE D'AZUR;43.794927;6.9432285;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;26
+475;6108;La Roquette-sur-Siagne;6550;La Roquette-sur-Siagne;93;PROVENCE-ALPES-COTE D'AZUR;43.5806999207;6.95418977737;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;13
+476;6109;La Roquette-sur-Var;6670;La Roquette-sur-Var;93;PROVENCE-ALPES-COTE D'AZUR;43.8279002;7.1981157;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+477;6110;Roubion;6420;Roubion;93;PROVENCE-ALPES-COTE D'AZUR;44.0924186707;7.05056381226;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+478;6111;Roure;6420;Roure;93;PROVENCE-ALPES-COTE D'AZUR;44.0899077;7.0874668;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+479;6112;Le Rouret;6650;Le Rouret;93;PROVENCE-ALPES-COTE D'AZUR;43.6744464;7.0064383;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;25
+481;6114;Saint-AndrÃ©-de-la-Roche;6730;Saint-AndrÃ©-de-la-Roche;93;PROVENCE-ALPES-COTE D'AZUR;43.7384986877;7.28758001328;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;21
+482;6115;Saint-Antonin;6260;Saint-Antonin;93;PROVENCE-ALPES-COTE D'AZUR;43.9106292725;6.9793639183;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+483;6116;Saint-Auban;6850;Saint-Auban;93;PROVENCE-ALPES-COTE D'AZUR;43.8483963013;6.7258849144;9307;Nice;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+484;6117;Saint-Blaise;6670;Saint-Blaise;93;PROVENCE-ALPES-COTE D'AZUR;43.8216018677;7.23924016953;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+485;6118;Saint-CÃ©zaire-sur-Siagne;6530;Saint-CÃ©zaire-sur-Siagne;93;PROVENCE-ALPES-COTE D'AZUR;43.6500943;6.792448;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+486;6119;Saint-Dalmas-le-Selvage;6660;Saint-Dalmas-le-Selvage;93;PROVENCE-ALPES-COTE D'AZUR;44.2835998535;6.86590003967;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+487;6120;Saint-Ã‰tienne-de-TinÃ©e;6660;Saint-Ã‰tienne-de-TinÃ©e;93;PROVENCE-ALPES-COTE D'AZUR;44.254051;6.929516;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+488;6121;Saint-Jean-Cap-Ferrat;6230;Saint-Jean-Cap-Ferrat;93;PROVENCE-ALPES-COTE D'AZUR;43.6918983459;7.3327999115;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;4
+489;6122;Saint-Jeannet;6640;Saint-Jeannet;93;PROVENCE-ALPES-COTE D'AZUR;43.7477989197;7.1433300972;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;1;26
+490;6123;Saint-Laurent-du-Var;6700;Saint-Laurent-du-Var;93;PROVENCE-ALPES-COTE D'AZUR;43.6758880615;7.19199705124;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;1;6
+491;6124;Saint-LÃ©ger;6260;Saint-LÃ©ger;93;PROVENCE-ALPES-COTE D'AZUR;44.000428;6.827476;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+492;6125;Saint-Martin-d'Entraunes;6470;Saint-Martin-d'Entraunes;93;PROVENCE-ALPES-COTE D'AZUR;44.1425933838;6.76108789444;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+493;6126;Saint-Martin-du-Var;6670;Saint-Martin-du-Var;93;PROVENCE-ALPES-COTE D'AZUR;43.8218994141;7.19126987457;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+494;6127;Saint-Martin-VÃ©subie;6450;Saint-Martin-VÃ©subie;93;PROVENCE-ALPES-COTE D'AZUR;44.0696983337;7.25681018829;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+495;6128;Saint-Paul-de-Vence;6570;Saint-Paul-de-Vence;93;PROVENCE-ALPES-COTE D'AZUR;43.696875;7.1221225;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;27
+496;6129;Saint-Sauveur-sur-TinÃ©e;6420;Saint-Sauveur-sur-TinÃ©e;93;PROVENCE-ALPES-COTE D'AZUR;44.0825996399;7.1056098938;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+497;6130;Saint-Vallier-de-Thiey;6460;Saint-Vallier-de-Thiey;93;PROVENCE-ALPES-COTE D'AZUR;43.6983985901;6.84811019897;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+498;6131;Sallagriffon;6910;Sallagriffon;93;PROVENCE-ALPES-COTE D'AZUR;43.883480072;6.90566205978;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;1;26
+500;6133;Sauze;6470;Sauze;93;PROVENCE-ALPES-COTE D'AZUR;44.0874652;6.8358736;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+501;6134;SÃ©ranon;6750;SÃ©ranon;93;PROVENCE-ALPES-COTE D'AZUR;43.7742996216;6.70433998108;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+502;6135;Sigale;6910;Sigale;93;PROVENCE-ALPES-COTE D'AZUR;43.8719844;6.964604;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+504;6137;SpÃ©racÃ¨des;6530;SpÃ©racÃ¨des;93;PROVENCE-ALPES-COTE D'AZUR;43.6478004456;6.85687017441;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+505;6138;ThÃ©oule-sur-Mer;6591;ThÃ©oule-sur-Mer Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.5060005188;6.93998003006;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA Cannes Pays de LÃ©rins;1;13
+506;6139;ThiÃ©ry;6710;ThiÃ©ry;93;PROVENCE-ALPES-COTE D'AZUR;43.9780708;7.0303369;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+507;6140;Le Tignet;6532;Le Tignet Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.639995;6.846153;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+508;6141;Toudon;6830;Toudon;93;PROVENCE-ALPES-COTE D'AZUR;43.901691;7.114222;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+509;6142;TouÃ«t-de-l'EscarÃ¨ne;6440;TouÃ«t-de-l'EscarÃ¨ne;93;PROVENCE-ALPES-COTE D'AZUR;43.8841018677;7.36141014099;9307;Nice;Nice;6;ALPES-MARITIMES;CC du Pays des Paillons;2;10
+510;6143;TouÃ«t-sur-Var;6710;TouÃ«t-sur-Var;93;PROVENCE-ALPES-COTE D'AZUR;43.9477005005;7.00611019135;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+511;6144;La Tour;6420;La Tour;93;PROVENCE-ALPES-COTE D'AZUR;43.946172;7.184039;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;26
+512;6145;Tourette-du-ChÃ¢teau;6830;Tourette-du-ChÃ¢teau;93;PROVENCE-ALPES-COTE D'AZUR;43.8498001099;7.16285991669;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+513;6146;Tournefort;6420;Tournefort;93;PROVENCE-ALPES-COTE D'AZUR;43.9463996887;7.15116977692;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;26
+514;6147;Tourrette-Levens;6690;Tourrette-Levens;93;PROVENCE-ALPES-COTE D'AZUR;43.7868995667;7.2767701149;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+515;6148;Tourrettes-sur-Loup;6140;Tourrettes-sur-Loup;93;PROVENCE-ALPES-COTE D'AZUR;43.7155990601;7.05916023254;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;25
+516;6149;La TrinitÃ©;6340;La TrinitÃ©;93;PROVENCE-ALPES-COTE D'AZUR;43.7430992126;7.3136100769;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;21
+518;6151;Utelle;6450;Utelle;93;PROVENCE-ALPES-COTE D'AZUR;43.9170837402;7.24776077271;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+519;6152;Valbonne;6560;Valbonne;93;PROVENCE-ALPES-COTE D'AZUR;43.64152;7.009186;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;25
+520;6153;Valdeblore;6420;Valdeblore;93;PROVENCE-ALPES-COTE D'AZUR;44.0728988647;7.16698980331;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+521;6154;Valderoure;6750;Valderoure;93;PROVENCE-ALPES-COTE D'AZUR;43.7742996216;6.70433998108;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA du Pays de Grasse;1;11
+522;6155;Vallauris;6220;Vallauris;93;PROVENCE-ALPES-COTE D'AZUR;43.579498291;7.05296993256;9305;Cannes - Antibes;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;1
+523;6156;Venanson;6450;Venanson;93;PROVENCE-ALPES-COTE D'AZUR;44.0532989502;7.2539601326;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;24
+524;6157;Vence;6141;Vence Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.7226982117;7.11346006393;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;1;26
+525;6158;Villars-sur-Var;6710;Villars-sur-Var;93;PROVENCE-ALPES-COTE D'AZUR;43.9370002747;7.09697008133;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+526;6159;Villefranche-sur-Mer;6230;Villefranche-sur-Mer;93;PROVENCE-ALPES-COTE D'AZUR;43.7042007446;7.31015014648;9307;Nice;Nice;6;ALPES-MARITIMES;MÃ©tropole Nice CÃ´te d'Azur;2;4
+527;6160;Villeneuve-d'Entraunes;6470;Villeneuve-d'Entraunes;93;PROVENCE-ALPES-COTE D'AZUR;44.1212425232;6.79386281967;9307;Nice;Nice;6;ALPES-MARITIMES;CC Alpes d'Azur;2;26
+528;6161;Villeneuve-Loubet;6270;Villeneuve-Loubet;93;PROVENCE-ALPES-COTE D'AZUR;43.6581486;7.1217377;9307;Nice;Nice;6;ALPES-MARITIMES;CA de Sophia Antipolis;1;27
+531;13001;Aix-en-Provence;13616;Aix-en-Provence Cedex 1;93;PROVENCE-ALPES-COTE D'AZUR;43.5299987793;5.44775009155;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;97
+532;13002;Allauch;13718;Allauch Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.3362998962;5.48191022873;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;3
+533;13003;Alleins;13980;Alleins;93;PROVENCE-ALPES-COTE D'AZUR;43.7033462524;5.16041612625;9312;Salon-de-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;25
+534;13004;Arles;13637;Arles Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.4148827;4.7364107;9309;Arles;Aix-Marseille;13;BOUCHES-DU-RHONE;CA d'Arles-Crau-Camargue-Montagnette;2;4
+535;13005;Aubagne;13785;Aubagne Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.2157592;5.5359678;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;5
+536;13006;Aureille;13930;Aureille;93;PROVENCE-ALPES-COTE D'AZUR;43.707188;4.947103;9312;Salon-de-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;CC VallÃ©e des Baux-Alpilles (CC VBA);2;26
+537;13007;Auriol;13390;Auriol;93;PROVENCE-ALPES-COTE D'AZUR;43.3694992065;5.63429021835;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;3
+538;13008;Aurons;13121;Aurons;93;PROVENCE-ALPES-COTE D'AZUR;43.6643981934;5.15607023239;9312;Salon-de-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;25
+539;13009;La Barben;13330;La Barben;93;PROVENCE-ALPES-COTE D'AZUR;43.6299667358;5.17560911179;9312;Salon-de-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;25
+540;13010;Barbentane;13570;Barbentane;93;PROVENCE-ALPES-COTE D'AZUR;43.8987045288;4.74774217606;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA Terre de Provence;2;7
+541;13011;Les Baux-de-Provence;13520;Les Baux-de-Provence;93;PROVENCE-ALPES-COTE D'AZUR;43.7433128357;4.79481077194;9309;Arles;Aix-Marseille;13;BOUCHES-DU-RHONE;CC VallÃ©e des Baux-Alpilles (CC VBA);2;26
+542;13012;Beaurecueil;13100;Beaurecueil;93;PROVENCE-ALPES-COTE D'AZUR;43.5112838745;5.54592323303;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+543;13013;BelcodÃ¨ne;13720;BelcodÃ¨ne;93;PROVENCE-ALPES-COTE D'AZUR;43.4253082275;5.58754491806;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;3
+544;13014;Berre-l'Ã‰tang;13138;Berre-l'Ã‰tang Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.4757729;5.167309;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;6
+545;13015;Bouc-Bel-Air;13320;Bouc-Bel-Air;93;PROVENCE-ALPES-COTE D'AZUR;43.4303016663;5.43471002579;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;29
+546;13016;La Bouilladisse;13720;La Bouilladisse;93;PROVENCE-ALPES-COTE D'AZUR;43.3943347;5.593807;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;3
+547;13017;Boulbon;13150;Boulbon;93;PROVENCE-ALPES-COTE D'AZUR;43.8631973267;4.6932220459;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA d'Arles-Crau-Camargue-Montagnette;2;7
+548;13018;Cabannes;13440;Cabannes;93;PROVENCE-ALPES-COTE D'AZUR;43.8607549;4.9489162;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA Terre de Provence;2;7
+549;13019;CabriÃ¨s;13480;CabriÃ¨s;93;PROVENCE-ALPES-COTE D'AZUR;43.442985;5.378381;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;29
+550;13020;Cadolive;13950;Cadolive;93;PROVENCE-ALPES-COTE D'AZUR;43.3961677551;5.54510784149;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;3
+551;13021;Carry-le-Rouet;13620;Carry-le-Rouet;93;PROVENCE-ALPES-COTE D'AZUR;43.3292999268;5.15068006516;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;11
+552;13022;Cassis;13260;Cassis;93;PROVENCE-ALPES-COTE D'AZUR;43.2141990662;5.53965997696;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;8
+553;13023;Ceyreste;13600;Ceyreste;93;PROVENCE-ALPES-COTE D'AZUR;43.214099884;5.63177013397;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;8
+554;13024;Charleval;13350;Charleval;93;PROVENCE-ALPES-COTE D'AZUR;43.7308998108;5.18591022491;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;25
+555;13025;ChÃ¢teauneuf-le-Rouge;13790;ChÃ¢teauneuf-le-Rouge;93;PROVENCE-ALPES-COTE D'AZUR;43.489730835;5.56867790222;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+556;13026;ChÃ¢teauneuf-les-Martigues;13220;ChÃ¢teauneuf-les-Martigues;93;PROVENCE-ALPES-COTE D'AZUR;43.382900238;5.16391992569;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;11
+557;13027;ChÃ¢teaurenard;13160;ChÃ¢teaurenard;93;PROVENCE-ALPES-COTE D'AZUR;43.8820805;4.8557003;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA Terre de Provence;2;7
+558;13028;La Ciotat;13600;La Ciotat;93;PROVENCE-ALPES-COTE D'AZUR;43.1737213;5.6060318;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;8
+559;13029;Cornillon-Confoux;13250;Cornillon-Confoux;93;PROVENCE-ALPES-COTE D'AZUR;43.5625991821;5.07169008255;9312;Salon-de-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;6
+560;13030;Cuges-les-Pins;13780;Cuges-les-Pins;93;PROVENCE-ALPES-COTE D'AZUR;43.2746946;5.7002073;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;8
+561;13031;La Destrousse;13112;La Destrousse;93;PROVENCE-ALPES-COTE D'AZUR;43.3947982788;5.59237003326;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;3
+562;13032;Ã‰guilles;13510;Ã‰guilles;93;PROVENCE-ALPES-COTE D'AZUR;43.5682983398;5.35416984558;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;25
+563;13033;EnsuÃ¨s-la-Redonne;13820;EnsuÃ¨s-la-Redonne;93;PROVENCE-ALPES-COTE D'AZUR;43.3565559;5.2060689;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;11
+564;13034;EygaliÃ¨res;13810;EygaliÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;43.76015;4.950151;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CC VallÃ©e des Baux-Alpilles (CC VBA);2;26
+565;13035;EyguiÃ¨res;13430;EyguiÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;43.6948013306;5.03229999542;9312;Salon-de-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;26
+566;13036;Eyragues;13630;Eyragues;93;PROVENCE-ALPES-COTE D'AZUR;43.8406659;4.841572;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA Terre de Provence;2;7
+567;13037;La Fare-les-Oliviers;13580;La Fare-les-Oliviers;93;PROVENCE-ALPES-COTE D'AZUR;43.5510559082;5.1959028244;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;6
+568;13038;Fontvieille;13990;Fontvieille;93;PROVENCE-ALPES-COTE D'AZUR;43.7248001099;4.71061992645;9309;Arles;Aix-Marseille;13;BOUCHES-DU-RHONE;CC VallÃ©e des Baux-Alpilles (CC VBA);2;26
+569;13039;Fos-sur-Mer;13771;Fos-sur-Mer Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.4519996643;4.94259023666;9311;Istres - Martigues;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;10
+570;13040;Fuveau;13710;Fuveau;93;PROVENCE-ALPES-COTE D'AZUR;43.4538002014;5.56147003174;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+571;13041;Gardanne;13120;Gardanne;93;PROVENCE-ALPES-COTE D'AZUR;43.455669;5.470649;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;9
+572;13042;GÃ©menos;13420;GÃ©menos;93;PROVENCE-ALPES-COTE D'AZUR;43.2952003479;5.62781000137;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;8
+573;13043;Marignane;13724;Marignane;93;PROVENCE-ALPES-COTE D'AZUR;43.3881863;5.2313192;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;11
+574;13044;Grans;13450;Grans;93;PROVENCE-ALPES-COTE D'AZUR;43.6091995239;5.06517982483;9312;Salon-de-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;27
+575;13045;Graveson;13690;Graveson;93;PROVENCE-ALPES-COTE D'AZUR;43.8515014648;4.77226018906;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA Terre de Provence;2;7
+576;13046;GrÃ©asque;13850;GrÃ©asque;93;PROVENCE-ALPES-COTE D'AZUR;43.4323005676;5.54278993607;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;3
+577;13047;Istres;13808;Istres Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.513006;4.987968;9311;Istres - Martigues;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;10
+578;13048;Jouques;13490;Jouques;93;PROVENCE-ALPES-COTE D'AZUR;43.6367988586;5.63795995712;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+579;13049;Lamanon;13113;Lamanon;93;PROVENCE-ALPES-COTE D'AZUR;43.7012658;5.0850622;9312;Salon-de-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;26
+580;13050;Lambesc;13410;Lambesc;93;PROVENCE-ALPES-COTE D'AZUR;43.654915;5.2627088;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;25
+581;13051;LanÃ§on-Provence;13680;LanÃ§on-Provence;93;PROVENCE-ALPES-COTE D'AZUR;43.5914334;5.124424;9312;Salon-de-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;6
+582;13052;Maillane;13910;Maillane;93;PROVENCE-ALPES-COTE D'AZUR;43.8317985535;4.78200006485;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA Terre de Provence;2;7
+583;13053;Mallemort;13370;Mallemort;93;PROVENCE-ALPES-COTE D'AZUR;43.7291984558;5.18016004562;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;25
+584;13054;Marignane;13729;Marignane Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.4164428711;5.21636104584;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;11
+585;13055;Marseille;13002;Marseille;93;PROVENCE-ALPES-COTE D'AZUR;43.2975977;5.3694272;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;98
+586;13056;Martigues;13692;Martigues Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.4052391052;5.04819393158;9311;Istres - Martigues;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;24
+587;13057;Mas-Blanc-des-Alpilles;13103;Mas-Blanc-des-Alpilles;93;PROVENCE-ALPES-COTE D'AZUR;43.7886619568;4.75575494766;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CC VallÃ©e des Baux-Alpilles (CC VBA);2;26
+588;13058;Maussane-les-Alpilles;13520;Maussane-les-Alpilles;93;PROVENCE-ALPES-COTE D'AZUR;43.7224998474;4.79331016541;9309;Arles;Aix-Marseille;13;BOUCHES-DU-RHONE;CC VallÃ©e des Baux-Alpilles (CC VBA);2;26
+589;13059;Meyrargues;13650;Meyrargues;93;PROVENCE-ALPES-COTE D'AZUR;43.6375999451;5.52685022354;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+590;13060;Meyreuil;13590;Meyreuil;93;PROVENCE-ALPES-COTE D'AZUR;43.4858016968;5.49531984329;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+591;13061;Saint-Pierre-de-MÃ©zoargues;13150;Saint-Pierre-de-MÃ©zoargues;93;PROVENCE-ALPES-COTE D'AZUR;43.8593665;4.651276;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA d'Arles-Crau-Camargue-Montagnette;2;7
+592;13062;Mimet;13105;Mimet;93;PROVENCE-ALPES-COTE D'AZUR;43.4143981934;5.50494003296;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;9
+593;13063;Miramas;13140;Miramas;93;PROVENCE-ALPES-COTE D'AZUR;43.5802993774;5.00074005127;9312;Salon-de-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;27
+594;13064;MollÃ©gÃ¨s;13940;MollÃ©gÃ¨s;93;PROVENCE-ALPES-COTE D'AZUR;43.8059997559;4.94824981689;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA Terre de Provence;2;7
+595;13065;MouriÃ¨s;13890;MouriÃ¨s;93;PROVENCE-ALPES-COTE D'AZUR;43.6884994;4.8737401;9309;Arles;Aix-Marseille;13;BOUCHES-DU-RHONE;CC VallÃ©e des Baux-Alpilles (CC VBA);2;26
+596;13066;Noves;13550;Noves;93;PROVENCE-ALPES-COTE D'AZUR;43.8748016357;4.90142011642;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA Terre de Provence;2;7
+597;13067;Orgon;13660;Orgon;93;PROVENCE-ALPES-COTE D'AZUR;43.8346988;4.9440887;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA Terre de Provence;2;26
+598;13068;Paradou;13520;Paradou;93;PROVENCE-ALPES-COTE D'AZUR;43.7225990295;4.8006901741;9309;Arles;Aix-Marseille;13;BOUCHES-DU-RHONE;CC VallÃ©e des Baux-Alpilles (CC VBA);2;26
+599;13069;PÃ©lissanne;13330;PÃ©lissanne;93;PROVENCE-ALPES-COTE D'AZUR;43.631049;5.150567;9312;Salon-de-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;25
+600;13070;La Penne-sur-Huveaune;13713;La Penne-sur-Huveaune Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.2845001221;5.51410007477;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;5
+601;13071;Les Pennes-Mirabeau;13170;Les Pennes-Mirabeau;93;PROVENCE-ALPES-COTE D'AZUR;43.400655;5.340723;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;9
+602;13072;Peynier;13790;Peynier;93;PROVENCE-ALPES-COTE D'AZUR;43.4481535;5.6404947;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+603;13073;Peypin;13124;Peypin;93;PROVENCE-ALPES-COTE D'AZUR;43.384601593;5.5764799118;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;3
+604;13074;Peyrolles-en-Provence;13860;Peyrolles-en-Provence;93;PROVENCE-ALPES-COTE D'AZUR;43.6463241577;5.58333778381;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+605;13075;Plan-de-Cuques;13712;Plan-de-Cuques Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.345989;5.462092;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;3
+606;13076;Plan-d'Orgon;13750;Plan-d'Orgon;93;PROVENCE-ALPES-COTE D'AZUR;43.8095612;4.99852;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA Terre de Provence;2;7
+607;13077;Port-de-Bouc;13110;Port-de-Bouc;93;PROVENCE-ALPES-COTE D'AZUR;43.4050064087;4.9860830307;9311;Istres - Martigues;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;24
+608;13078;Port-Saint-Louis-du-RhÃ´ne;13518;Port-Saint-Louis-du-RhÃ´ne Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.3993606567;4.79159212112;9311;Istres - Martigues;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;4
+609;13079;Puyloubier;13114;Puyloubier;93;PROVENCE-ALPES-COTE D'AZUR;43.5246276855;5.67621994019;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+610;13080;Le Puy-Sainte-RÃ©parade;13610;Le Puy-Sainte-RÃ©parade;93;PROVENCE-ALPES-COTE D'AZUR;43.6632995605;5.43683004379;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+611;13081;Rognac;13655;Rognac Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.4895644;5.22932059;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;6
+612;13082;Rognes;13840;Rognes;93;PROVENCE-ALPES-COTE D'AZUR;43.6632995605;5.34878015518;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;25
+613;13083;Rognonas;13870;Rognonas;93;PROVENCE-ALPES-COTE D'AZUR;43.8978004456;4.8029499054;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA Terre de Provence;2;7
+614;13084;La Roque-d'AnthÃ©ron;13640;La Roque-d'AnthÃ©ron;93;PROVENCE-ALPES-COTE D'AZUR;43.7149009705;5.30746984482;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;25
+615;13085;Roquefort-la-BÃ©doule;13830;Roquefort-la-BÃ©doule;93;PROVENCE-ALPES-COTE D'AZUR;43.2475013733;5.5913901329;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;8
+616;13086;Roquevaire;13360;Roquevaire;93;PROVENCE-ALPES-COTE D'AZUR;43.3487126;5.6039366;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;5
+617;13087;Rousset;13790;Rousset;93;PROVENCE-ALPES-COTE D'AZUR;43.4804000854;5.62191009521;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+618;13088;Le Rove;13740;Le Rove;93;PROVENCE-ALPES-COTE D'AZUR;43.3705942;5.2527116;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;11
+619;13089;Saint-Andiol;13670;Saint-Andiol;93;PROVENCE-ALPES-COTE D'AZUR;43.835465;4.944566;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA Terre de Provence;2;7
+620;13090;Saint-Antonin-sur-Bayon;13100;Saint-Antonin-sur-Bayon;93;PROVENCE-ALPES-COTE D'AZUR;43.5466995239;5.52179002762;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+621;13091;Saint-Cannat;13760;Saint-Cannat;93;PROVENCE-ALPES-COTE D'AZUR;43.6208000183;5.29874992371;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;25
+622;13092;Saint-Chamas;13250;Saint-Chamas;93;PROVENCE-ALPES-COTE D'AZUR;43.5507116;5.038872;9312;Salon-de-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;6
+623;13093;Saint-EstÃ¨ve-Janson;13610;Saint-EstÃ¨ve-Janson;93;PROVENCE-ALPES-COTE D'AZUR;43.6853352;5.3975489;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;25
+624;13094;Saint-Ã‰tienne-du-GrÃ¨s;13103;Saint-Ã‰tienne-du-GrÃ¨s;93;PROVENCE-ALPES-COTE D'AZUR;43.7813987732;4.73092985153;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CC VallÃ©e des Baux-Alpilles (CC VBA);2;26
+625;13095;Saint-Marc-Jaumegarde;13100;Saint-Marc-Jaumegarde;93;PROVENCE-ALPES-COTE D'AZUR;43.5466995239;5.52179002762;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+626;13096;Saintes-Maries-de-la-Mer;13460;Saintes-Maries-de-la-Mer;93;PROVENCE-ALPES-COTE D'AZUR;43.4514999;4.4292302;9309;Arles;Aix-Marseille;13;BOUCHES-DU-RHONE;CA d'Arles-Crau-Camargue-Montagnette;2;4
+627;13097;Saint-Martin-de-Crau;13558;Saint-Martin-de-Crau Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.6386375;4.8118839;9309;Arles;Aix-Marseille;13;BOUCHES-DU-RHONE;CA d'Arles-Crau-Camargue-Montagnette;2;27
+628;13098;Saint-Mitre-les-Remparts;13920;Saint-Mitre-les-Remparts;93;PROVENCE-ALPES-COTE D'AZUR;43.4515991211;5.01443004608;9311;Istres - Martigues;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;10
+629;13099;Saint-Paul-lez-Durance;13115;Saint-Paul-lez-Durance;93;PROVENCE-ALPES-COTE D'AZUR;43.6873029;5.7084456;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+630;13100;Saint-RÃ©my-de-Provence;13538;Saint-RÃ©my-de-Provence Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.7885894775;4.830037117;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CC VallÃ©e des Baux-Alpilles (CC VBA);2;26
+631;13101;Saint-Savournin;13119;Saint-Savournin;93;PROVENCE-ALPES-COTE D'AZUR;43.407699585;5.52654981613;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;3
+632;13102;Saint-Victoret;13730;Saint-Victoret;93;PROVENCE-ALPES-COTE D'AZUR;43.42094;5.233104;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;29
+633;13103;Salon-de-Provence;13300;Salon-de-Provence Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.640663147;5.09943914413;9312;Salon-de-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;99
+634;13104;Sausset-les-Pins;13960;Sausset-les-Pins;93;PROVENCE-ALPES-COTE D'AZUR;43.331073761;5.10644721985;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;11
+635;13105;SÃ©nas;13560;SÃ©nas;93;PROVENCE-ALPES-COTE D'AZUR;43.7458000183;5.07807016373;9312;Salon-de-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;26
+636;13106;SeptÃ¨mes-les-Vallons;13240;SeptÃ¨mes-les-Vallons;93;PROVENCE-ALPES-COTE D'AZUR;43.3886985779;5.35587978363;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;9
+637;13107;Simiane-Collongue;13109;Simiane-Collongue;93;PROVENCE-ALPES-COTE D'AZUR;43.4303195;5.4347154;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;9
+638;13108;Tarascon;13158;Tarascon Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.8059997;4.6580901;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA d'Arles-Crau-Camargue-Montagnette;2;7
+639;13109;Le Tholonet;13100;Le Tholonet;93;PROVENCE-ALPES-COTE D'AZUR;43.521487;5.512822;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+640;13110;Trets;13530;Trets;93;PROVENCE-ALPES-COTE D'AZUR;43.4472007751;5.68428993225;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+641;13111;Vauvenargues;13126;Vauvenargues;93;PROVENCE-ALPES-COTE D'AZUR;43.5551986694;5.59874010086;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+642;13112;Velaux;13880;Velaux;93;PROVENCE-ALPES-COTE D'AZUR;43.5228996277;5.25284004211;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;6
+643;13113;Venelles;13614;Venelles Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.5988006592;5.48342990875;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;28
+644;13114;Ventabren;13122;Ventabren;93;PROVENCE-ALPES-COTE D'AZUR;43.5378570557;5.29463911057;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;6
+645;13115;VernÃ¨gues;13116;VernÃ¨gues;93;PROVENCE-ALPES-COTE D'AZUR;43.720199585;5.24510002136;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;25
+646;13116;VerquiÃ¨res;13670;VerquiÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;43.8059997559;4.94883012772;59;Avignon;Aix-Marseille;13;BOUCHES-DU-RHONE;CA Terre de Provence;2;7
+647;13117;Vitrolles;13743;Vitrolles Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.448299408;5.24882888794;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;4;29
+648;13118;Coudoux;13111;Coudoux;93;PROVENCE-ALPES-COTE D'AZUR;43.5587272644;5.24983501434;9308;Aix-en-Provence;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;1;6
+649;13119;Carnoux-en-Provence;13716;Carnoux-en-Provence Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.2560164;5.5663591;9310;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;8
+650;13201;Marseille;13001;Marseille;93;PROVENCE-ALPES-COTE D'AZUR;43.2971305847;5.37976408005;9311;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;98
+651;13202;Marseille;13002;Marseille;93;PROVENCE-ALPES-COTE D'AZUR;43.2988662;5.3653807;9312;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;98
+652;13205;Marseille;13005;Marseille;93;PROVENCE-ALPES-COTE D'AZUR;43.2974357605;5.39908790588;9313;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;98
+653;13208;Marseille;13008;Marseille;93;PROVENCE-ALPES-COTE D'AZUR;43.270362854;5.3791718483;9314;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;98
+654;13209;Marseille;13009;Marseille;93;PROVENCE-ALPES-COTE D'AZUR;43.2680778503;5.41697502136;9315;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;98
+655;13212;Marseille;13012;Marseille;93;PROVENCE-ALPES-COTE D'AZUR;43.297077179;5.44345283508;9316;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;98
+656;13214;Marseille;13014;Marseille;93;PROVENCE-ALPES-COTE D'AZUR;43.3469963;5.3781189;9317;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;98
+657;13215;Marseille;13015;Marseille;93;PROVENCE-ALPES-COTE D'AZUR;43.3321647644;5.3645567894;9318;Marseille - Aubagne;Aix-Marseille;13;BOUCHES-DU-RHONE;MÃ©tropole d'Aix-Marseille-Provence;3;98
+658;83001;Les Adrets-de-l'EstÃ©rel;83600;Les Adrets-de-l'EstÃ©rel;93;PROVENCE-ALPES-COTE D'AZUR;43.5242004395;6.81398010254;9305;Cannes - Antibes;Nice;83;VAR;CA Var Esterel MÃ©diterranÃ©e (CAVEM);1;14
+659;83002;Aiguines;83630;Aiguines;93;PROVENCE-ALPES-COTE D'AZUR;43.7747001648;6.24345016479;9313;Draguignan;Nice;83;VAR;CC Lacs et Gorges du Verdon;3;4
+660;83003;Ampus;83111;Ampus;93;PROVENCE-ALPES-COTE D'AZUR;43.6072006226;6.3834400177;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;4
+661;83004;Les Arcs;83460;Les Arcs;93;PROVENCE-ALPES-COTE D'AZUR;43.4629138;6.4790282;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;23
+662;83005;Artignosc-sur-Verdon;83630;Artignosc-sur-Verdon;93;PROVENCE-ALPES-COTE D'AZUR;43.6554985046;6.13185977936;9313;Draguignan;Nice;83;VAR;CC Lacs et Gorges du Verdon;3;4
+663;83006;Artigues;83560;Artigues;93;PROVENCE-ALPES-COTE D'AZUR;43.5933493;5.8114507;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;13
+664;83007;Aups;83630;Aups;93;PROVENCE-ALPES-COTE D'AZUR;43.6272010803;6.22341012955;9313;Draguignan;Nice;83;VAR;CC Lacs et Gorges du Verdon;3;4
+665;83008;Bagnols-en-ForÃªt;83600;Bagnols-en-ForÃªt;93;PROVENCE-ALPES-COTE D'AZUR;43.5371774;6.6986543;9314;FrÃ©jus - Saint-RaphaÃ«l;Nice;83;VAR;CC du Pays de Fayence;1;11
+666;83009;Bandol;83150;Bandol;93;PROVENCE-ALPES-COTE D'AZUR;43.136205;5.75474;9315;Toulon;Nice;83;VAR;CA Sud Sainte Baume;2;10
+667;83010;BargÃ¨me;83840;BargÃ¨me;93;PROVENCE-ALPES-COTE D'AZUR;43.7297782898;6.57182407379;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;4
+668;83011;Bargemon;83830;Bargemon;93;PROVENCE-ALPES-COTE D'AZUR;43.6190376282;6.55085706711;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;4
+669;83012;Barjols;83670;Barjols;93;PROVENCE-ALPES-COTE D'AZUR;43.5573997498;6.00769996643;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;13
+670;83013;La Bastide;83840;La Bastide;93;PROVENCE-ALPES-COTE D'AZUR;43.7343114;6.6245617;9305;Cannes - Antibes;Nice;83;VAR;CA DracÃ©noise;1;4
+671;83014;Baudinard-sur-Verdon;83630;Baudinard-sur-Verdon;93;PROVENCE-ALPES-COTE D'AZUR;43.716566;6.1364328;9313;Draguignan;Nice;83;VAR;CC Lacs et Gorges du Verdon;3;4
+672;83015;Bauduen;83630;Bauduen;93;PROVENCE-ALPES-COTE D'AZUR;43.7324867249;6.17730808258;9313;Draguignan;Nice;83;VAR;CC Lacs et Gorges du Verdon;3;4
+673;83016;Le Beausset;83330;Le Beausset;93;PROVENCE-ALPES-COTE D'AZUR;43.1983985901;5.80184984207;9315;Toulon;Nice;83;VAR;CA Sud Sainte Baume;2;12
+674;83017;Belgentier;83210;Belgentier;93;PROVENCE-ALPES-COTE D'AZUR;43.2448005676;5.99945020676;9315;Toulon;Nice;83;VAR;CC de la VallÃ©e du Gapeau;2;18
+675;83018;Besse-sur-Issole;83890;Besse-sur-Issole;93;PROVENCE-ALPES-COTE D'AZUR;43.348656;6.178561;9315;Toulon;Nice;83;VAR;CC Coeur du Var;3;9
+676;83019;Bormes-les-Mimosas;83230;Bormes-les-Mimosas;93;PROVENCE-ALPES-COTE D'AZUR;43.1511726379;6.34436702728;9315;Toulon;Nice;83;VAR;CC MÃ©diterranÃ©e Porte des Maures;2;2
+677;83020;Le Bourguet;83840;Le Bourguet;93;PROVENCE-ALPES-COTE D'AZUR;43.783681;6.518749;9301;Digne-les-Bains;Nice;83;VAR;CC Lacs et Gorges du Verdon;1;4
+678;83021;Bras;83149;Bras;93;PROVENCE-ALPES-COTE D'AZUR;43.4723243713;5.95342922211;9310;Marseille - Aubagne;Nice;83;VAR;CA de la Provence Verte;3;13
+679;83022;Brenon;83840;Brenon;93;PROVENCE-ALPES-COTE D'AZUR;43.766725;6.543774;9305;Cannes - Antibes;Nice;83;VAR;CC Lacs et Gorges du Verdon;1;4
+680;83023;Brignoles;83177;Brignoles;93;PROVENCE-ALPES-COTE D'AZUR;43.4063987732;6.06195020676;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;1
+681;83025;Brue-Auriac;83119;Brue-Auriac;93;PROVENCE-ALPES-COTE D'AZUR;43.5278091431;5.94587802887;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;13
+682;83026;Cabasse;83340;Cabasse;93;PROVENCE-ALPES-COTE D'AZUR;43.4261016846;6.22168016434;9315;Toulon;Nice;83;VAR;CC Coeur du Var;3;9
+683;83027;La CadiÃ¨re-d'Azur;83740;La CadiÃ¨re-d'Azur;93;PROVENCE-ALPES-COTE D'AZUR;43.1966018677;5.75708007812;9310;Marseille - Aubagne;Nice;83;VAR;CA Sud Sainte Baume;2;12
+684;83028;Callas;83830;Callas;93;PROVENCE-ALPES-COTE D'AZUR;43.5940475464;6.53901910782;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;4
+685;83029;Callian;83440;Callian;93;PROVENCE-ALPES-COTE D'AZUR;43.5242004395;6.81398010254;9305;Cannes - Antibes;Nice;83;VAR;CC du Pays de Fayence;1;11
+686;83030;Camps-la-Source;83170;Camps-la-Source;93;PROVENCE-ALPES-COTE D'AZUR;43.339348;6.1483812;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;7
+687;83031;Le Cannet-des-Maures;83340;Le Cannet-des-Maures;93;PROVENCE-ALPES-COTE D'AZUR;43.39220047;6.34179019928;9313;Draguignan;Nice;83;VAR;CC Coeur du Var;3;9
+688;83032;CarcÃ¨s;83570;CarcÃ¨s;93;PROVENCE-ALPES-COTE D'AZUR;43.4765014648;6.18244981766;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;1
+689;83033;Carnoules;83660;Carnoules;93;PROVENCE-ALPES-COTE D'AZUR;43.3030828;6.1897881;9315;Toulon;Nice;83;VAR;CC Coeur du Var;3;7
+690;83034;Carqueiranne;83320;Carqueiranne;93;PROVENCE-ALPES-COTE D'AZUR;43.0943984985;6.0744099617;9315;Toulon;Nice;83;VAR;MÃ©tropole Toulon-Provence-MÃ©diterranÃ©e;2;6
+691;83035;Le Castellet;83330;Le Castellet;93;PROVENCE-ALPES-COTE D'AZUR;43.2033996582;5.77639007568;9310;Marseille - Aubagne;Nice;83;VAR;CA Sud Sainte Baume;2;12
+692;83036;Cavalaire-sur-Mer;83240;Cavalaire-sur-Mer;93;PROVENCE-ALPES-COTE D'AZUR;43.172870636;6.53023576736;9314;FrÃ©jus - Saint-RaphaÃ«l;Nice;83;VAR;CC du Golfe de Saint-Tropez;1;15
+693;83037;La Celle;83170;La Celle;93;PROVENCE-ALPES-COTE D'AZUR;43.393901825;6.04084014893;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;1
+694;83038;ChÃ¢teaudouble;83300;ChÃ¢teaudouble;93;PROVENCE-ALPES-COTE D'AZUR;43.5996722;6.4492661;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;4
+695;83039;ChÃ¢teauvert;83670;ChÃ¢teauvert;93;PROVENCE-ALPES-COTE D'AZUR;43.50132;6.0241049;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;13
+696;83040;ChÃ¢teauvieux;83840;ChÃ¢teauvieux;93;PROVENCE-ALPES-COTE D'AZUR;43.7780914307;6.57675218582;9305;Cannes - Antibes;Nice;83;VAR;CC Lacs et Gorges du Verdon;1;4
+697;83041;Claviers;83830;Claviers;93;PROVENCE-ALPES-COTE D'AZUR;43.6012268066;6.56212377548;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;4
+698;83042;Cogolin;83312;Cogolin Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.2518645;6.5335011;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CC du Golfe de Saint-Tropez;1;15
+699;83043;CollobriÃ¨res;83610;CollobriÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;43.2374992371;6.30899000168;9315;Toulon;Nice;83;VAR;CC MÃ©diterranÃ©e Porte des Maures;2;9
+700;83044;Comps-sur-Artuby;83840;Comps-sur-Artuby;93;PROVENCE-ALPES-COTE D'AZUR;43.7097015381;6.50847005844;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;4
+701;83045;Correns;83570;Correns;93;PROVENCE-ALPES-COTE D'AZUR;43.4879875183;6.07929801941;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;1
+702;83046;Cotignac;83570;Cotignac;93;PROVENCE-ALPES-COTE D'AZUR;43.5266304016;6.14955997467;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;1
+703;83047;La Crau;83260;La Crau;93;PROVENCE-ALPES-COTE D'AZUR;43.148399353;6.073969841;9315;Toulon;Nice;83;VAR;MÃ©tropole Toulon-Provence-MÃ©diterranÃ©e;2;2
+704;83048;La Croix-Valmer;83420;La Croix-Valmer;93;PROVENCE-ALPES-COTE D'AZUR;43.2080346;6.5683075;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CC du Golfe de Saint-Tropez;1;15
+705;83049;Cuers;83390;Cuers;93;PROVENCE-ALPES-COTE D'AZUR;43.2372908;6.0727958;9315;Toulon;Nice;83;VAR;CC MÃ©diterranÃ©e Porte des Maures;2;18
+706;83050;Draguignan;83300;Draguignan;93;PROVENCE-ALPES-COTE D'AZUR;43.5379219;6.4634904;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;3
+707;83051;Entrecasteaux;83570;Entrecasteaux;93;PROVENCE-ALPES-COTE D'AZUR;43.514689;6.242809;9313;Draguignan;Nice;83;VAR;CA de la Provence Verte;3;1
+708;83052;Esparron;83560;Esparron;93;PROVENCE-ALPES-COTE D'AZUR;43.6987724304;5.95435380936;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;13
+709;83053;Ã‰venos;83330;Ã‰venos;93;PROVENCE-ALPES-COTE D'AZUR;43.1324005127;5.86639022827;9315;Toulon;Nice;83;VAR;CA Sud Sainte Baume;2;10
+710;83054;La FarlÃ¨de;83210;La FarlÃ¨de;93;PROVENCE-ALPES-COTE D'AZUR;43.1669407;6.0431494;9315;Toulon;Nice;83;VAR;CC de la VallÃ©e du Gapeau;2;18
+711;83055;Fayence;83440;Fayence;93;PROVENCE-ALPES-COTE D'AZUR;43.6237753;6.6952285;9305;Cannes - Antibes;Nice;83;VAR;CC du Pays de Fayence;1;11
+712;83056;FiganiÃ¨res;83830;FiganiÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;43.5700263977;6.49671220779;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;4
+713;83057;Flassans-sur-Issole;83340;Flassans-sur-Issole;93;PROVENCE-ALPES-COTE D'AZUR;43.3699989319;6.22355985641;9315;Toulon;Nice;83;VAR;CC Coeur du Var;3;9
+714;83058;Flayosc;83780;Flayosc;93;PROVENCE-ALPES-COTE D'AZUR;43.534572;6.394899;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;4
+715;83059;Forcalqueiret;83136;Forcalqueiret;93;PROVENCE-ALPES-COTE D'AZUR;43.3362998962;6.08051013947;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;7
+716;83060;Fox-Amphoux;83670;Fox-Amphoux;93;PROVENCE-ALPES-COTE D'AZUR;43.5862045288;6.10159921646;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;4
+717;83061;FrÃ©jus;83608;FrÃ©jus Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.4328422;6.736473;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CA Var Esterel MÃ©diterranÃ©e (CAVEM);1;96
+718;83062;La Garde;83130;La Garde;93;PROVENCE-ALPES-COTE D'AZUR;43.1236953735;6.01097488403;9315;Toulon;Nice;83;VAR;MÃ©tropole Toulon-Provence-MÃ©diterranÃ©e;2;6
+719;83063;La Garde-Freinet;83680;La Garde-Freinet;93;PROVENCE-ALPES-COTE D'AZUR;43.3181991577;6.46889019012;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CC du Golfe de Saint-Tropez;1;9
+720;83064;GarÃ©oult;83136;GarÃ©oult;93;PROVENCE-ALPES-COTE D'AZUR;43.3292999;6.0466499;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;7
+721;83065;Gassin;83580;Gassin;93;PROVENCE-ALPES-COTE D'AZUR;43.2288017273;6.58552980423;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CC du Golfe de Saint-Tropez;1;15
+722;83066;Ginasservis;83560;Ginasservis;93;PROVENCE-ALPES-COTE D'AZUR;43.6711349487;5.84798002243;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;13
+723;83067;Gonfaron;83590;Gonfaron;93;PROVENCE-ALPES-COTE D'AZUR;43.3195991516;6.28769016266;9315;Toulon;Nice;83;VAR;CC Coeur du Var;3;9
+724;83068;Grimaud;83316;Grimaud Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.2761993408;6.52204990387;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CC du Golfe de Saint-Tropez;1;15
+725;83069;HyÃ¨res-les-Palmiers;83412;HyÃ¨res Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.120098114;6.13016986847;9315;Toulon;Nice;83;VAR;MÃ©tropole Toulon-Provence-MÃ©diterranÃ©e;2;97
+726;83070;Le Lavandou;83980;Le Lavandou;93;PROVENCE-ALPES-COTE D'AZUR;43.1381492615;6.36927509308;9315;Toulon;Nice;83;VAR;CC MÃ©diterranÃ©e Porte des Maures;2;2
+727;83071;La Londe-les-Maures;83250;La Londe-les-Maures;93;PROVENCE-ALPES-COTE D'AZUR;43.1385002136;6.23556518555;9315;Toulon;Nice;83;VAR;CC MÃ©diterranÃ©e Porte des Maures;2;2
+728;83072;Lorgues;83510;Lorgues;93;PROVENCE-ALPES-COTE D'AZUR;43.4930906;6.3584594;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;23
+729;83073;Le Luc;83340;Le Luc;93;PROVENCE-ALPES-COTE D'AZUR;43.3946990967;6.3130698204;9313;Draguignan;Nice;83;VAR;CC Coeur du Var;3;9
+730;83074;La Martre;83840;La Martre;93;PROVENCE-ALPES-COTE D'AZUR;43.771611;6.599143;9305;Cannes - Antibes;Nice;83;VAR;CC Lacs et Gorges du Verdon;1;4
+731;83075;Les Mayons;83340;Les Mayons;93;PROVENCE-ALPES-COTE D'AZUR;43.3134182;6.3581471;9313;Draguignan;Nice;83;VAR;CC Coeur du Var;3;9
+732;83076;Mazaugues;83136;Mazaugues;93;PROVENCE-ALPES-COTE D'AZUR;43.3475761414;5.92239522934;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;7
+733;83077;MÃ©ounes-lÃ¨s-Montrieux;83136;MÃ©ounes-lÃ¨s-Montrieux;93;PROVENCE-ALPES-COTE D'AZUR;43.2817993164;5.96993017197;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;7
+734;83078;Moissac-Bellevue;83630;Moissac-Bellevue;93;PROVENCE-ALPES-COTE D'AZUR;43.653301239;6.16680002213;9313;Draguignan;Nice;83;VAR;CC Lacs et Gorges du Verdon;3;4
+735;83079;La Mole;83310;La Mole;93;PROVENCE-ALPES-COTE D'AZUR;43.2074012756;6.46525001526;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CC du Golfe de Saint-Tropez;1;15
+736;83080;Mons;83440;Mons;93;PROVENCE-ALPES-COTE D'AZUR;43.6902999878;6.71362018585;9305;Cannes - Antibes;Nice;83;VAR;CC du Pays de Fayence;1;11
+737;83081;Montauroux;83440;Montauroux;93;PROVENCE-ALPES-COTE D'AZUR;43.6178016663;6.76446008682;9305;Cannes - Antibes;Nice;83;VAR;CC du Pays de Fayence;1;11
+738;83082;Montferrat;83131;Montferrat;93;PROVENCE-ALPES-COTE D'AZUR;43.612566;6.481407;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;4
+739;83083;Montfort-sur-Argens;83570;Montfort-sur-Argens;93;PROVENCE-ALPES-COTE D'AZUR;43.4737014771;6.12059020996;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;1
+740;83084;Montmeyan;83670;Montmeyan;93;PROVENCE-ALPES-COTE D'AZUR;43.6481018;6.0633401;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;4
+741;83085;La Motte;83920;La Motte;93;PROVENCE-ALPES-COTE D'AZUR;43.492664;6.534828;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CA DracÃ©noise;1;4
+742;83086;Le Muy;83490;Le Muy;93;PROVENCE-ALPES-COTE D'AZUR;43.4702987671;6.56571006775;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CA DracÃ©noise;1;23
+743;83087;Nans-les-Pins;83860;Nans-les-Pins;93;PROVENCE-ALPES-COTE D'AZUR;43.3725013733;5.78573989868;9310;Marseille - Aubagne;Nice;83;VAR;CA de la Provence Verte;3;12
+744;83088;NÃ©oules;83136;NÃ©oules;93;PROVENCE-ALPES-COTE D'AZUR;43.309362;6.013246;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;7
+745;83089;OlliÃ¨res;83470;OlliÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;43.4829406738;5.82861185074;9308;Aix-en-Provence;Nice;83;VAR;CA de la Provence Verte;3;13
+746;83090;Ollioules;83191;Ollioules Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.1396821;5.8476629;9315;Toulon;Nice;83;VAR;MÃ©tropole Toulon-Provence-MÃ©diterranÃ©e;2;10
+747;83091;Pierrefeu-du-Var;83390;Pierrefeu-du-Var;93;PROVENCE-ALPES-COTE D'AZUR;43.2268981934;6.14451980591;9315;Toulon;Nice;83;VAR;CC MÃ©diterranÃ©e Porte des Maures;2;7
+748;83092;Pignans;83790;Pignans;93;PROVENCE-ALPES-COTE D'AZUR;43.3498001099;6.17711019516;9315;Toulon;Nice;83;VAR;CC Coeur du Var;3;9
+749;83093;Plan-d'Aups-Sainte-Baume;83640;Plan-d'Aups-Sainte-Baume;93;PROVENCE-ALPES-COTE D'AZUR;43.3698997498;5.78149986267;9310;Marseille - Aubagne;Nice;83;VAR;CA de la Provence Verte;3;12
+750;83094;Le Plan-de-la-Tour;83120;Le Plan-de-la-Tour;93;PROVENCE-ALPES-COTE D'AZUR;43.33945;6.5484049;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CC du Golfe de Saint-Tropez;1;15
+751;83095;PontevÃ¨s;83670;PontevÃ¨s;93;PROVENCE-ALPES-COTE D'AZUR;43.5532608032;6.03153419495;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;13
+752;83096;Pourcieux;83470;Pourcieux;93;PROVENCE-ALPES-COTE D'AZUR;43.470504;5.785839;9308;Aix-en-Provence;Nice;83;VAR;CA de la Provence Verte;3;13
+753;83097;PourriÃ¨res;83910;PourriÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;43.504447937;5.7342247963;9308;Aix-en-Provence;Nice;83;VAR;CA de la Provence Verte;3;13
+754;83098;Le Pradet;83220;Le Pradet;93;PROVENCE-ALPES-COTE D'AZUR;43.1073228;6.021054;9315;Toulon;Nice;83;VAR;MÃ©tropole Toulon-Provence-MÃ©diterranÃ©e;2;6
+755;83099;Puget-sur-Argens;83480;Puget-sur-Argens;93;PROVENCE-ALPES-COTE D'AZUR;43.4552993774;6.68516016006;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CA Var Esterel MÃ©diterranÃ©e (CAVEM);1;11
+756;83100;Puget-Ville;83390;Puget-Ville;93;PROVENCE-ALPES-COTE D'AZUR;43.2893203;6.136326;9315;Toulon;Nice;83;VAR;CC Coeur du Var;3;7
+757;83101;Ramatuelle;83350;Ramatuelle;93;PROVENCE-ALPES-COTE D'AZUR;43.2243045;6.6317461;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CC du Golfe de Saint-Tropez;1;15
+758;83102;RÃ©gusse;83630;RÃ©gusse;93;PROVENCE-ALPES-COTE D'AZUR;43.6558990479;6.13017988205;9313;Draguignan;Nice;83;VAR;CC Lacs et Gorges du Verdon;3;4
+759;83103;Le Revest-les-Eaux;83200;Le Revest-les-Eaux;93;PROVENCE-ALPES-COTE D'AZUR;43.1767959595;5.92562818527;9315;Toulon;Nice;83;VAR;MÃ©tropole Toulon-Provence-MÃ©diterranÃ©e;2;21
+760;83104;Rians;83560;Rians;93;PROVENCE-ALPES-COTE D'AZUR;43.6064987183;5.75785017014;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;13
+761;83105;Riboux;13780;Riboux;93;PROVENCE-ALPES-COTE D'AZUR;43.3027153015;5.75647783279;9310;Marseille - Aubagne;Nice;83;VAR;CA Sud Sainte Baume;2;12
+762;83106;Rocbaron;83136;Rocbaron;93;PROVENCE-ALPES-COTE D'AZUR;43.3041763306;6.09113883972;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;7
+763;83107;Roquebrune-sur-Argens;83520;Roquebrune-sur-Argens;93;PROVENCE-ALPES-COTE D'AZUR;43.4443016052;6.63783979416;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CA Var Esterel MÃ©diterranÃ©e (CAVEM);1;11
+764;83108;La Roquebrussanne;83136;La Roquebrussanne;93;PROVENCE-ALPES-COTE D'AZUR;43.3402442932;5.97625017166;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;7
+765;83109;La Roque-Esclapon;83840;La Roque-Esclapon;93;PROVENCE-ALPES-COTE D'AZUR;43.723869;6.629754;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;4
+766;83110;Rougiers;83170;Rougiers;93;PROVENCE-ALPES-COTE D'AZUR;43.3926010132;5.85227012634;9310;Marseille - Aubagne;Nice;83;VAR;CA de la Provence Verte;3;1
+767;83111;Sainte-Anastasie-sur-Issole;83136;Sainte-Anastasie-sur-Issole;93;PROVENCE-ALPES-COTE D'AZUR;43.3414001465;6.12419986725;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;7
+768;83112;Saint-Cyr-sur-Mer;83270;Saint-Cyr-sur-Mer;93;PROVENCE-ALPES-COTE D'AZUR;43.1819610596;5.710916996;9310;Marseille - Aubagne;Nice;83;VAR;CA Sud Sainte Baume;2;12
+769;83113;Saint-Julien;83560;Saint-Julien;93;PROVENCE-ALPES-COTE D'AZUR;43.693589;5.9148166;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;13
+770;83114;Saint-Martin-de-PalliÃ¨res;83560;Saint-Martin-de-PalliÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;43.5890464783;5.8850312233;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;13
+771;83115;Sainte-Maxime;83120;Sainte-Maxime;93;PROVENCE-ALPES-COTE D'AZUR;43.3096961975;6.64053297043;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CC du Golfe de Saint-Tropez;1;15
+772;83116;Saint-Maximin-la-Sainte-Baume;83470;Saint-Maximin-la-Sainte-Baume;93;PROVENCE-ALPES-COTE D'AZUR;43.4527015686;5.86339998245;9308;Aix-en-Provence;Nice;83;VAR;CA de la Provence Verte;3;13
+773;83117;Saint-Paul-en-ForÃªt;83440;Saint-Paul-en-ForÃªt;93;PROVENCE-ALPES-COTE D'AZUR;43.5675010681;6.69116020203;9305;Cannes - Antibes;Nice;83;VAR;CC du Pays de Fayence;1;11
+774;83118;Saint-RaphaÃ«l;83701;Saint-RaphaÃ«l Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.42518;6.7685418;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CA Var Esterel MÃ©diterranÃ©e (CAVEM);1;14
+775;83119;Saint-Tropez;83992;Saint-Tropez Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.2731869;6.6396056;9314;FrÃ©jus-Saint-RaphaÃ«l;Nice;83;VAR;CC du Golfe de Saint-Tropez;1;15
+776;83120;Saint-Zacharie;83640;Saint-Zacharie;93;PROVENCE-ALPES-COTE D'AZUR;43.3858985901;5.70702981949;9310;Marseille - Aubagne;Nice;83;VAR;MÃ©tropole d'Aix-Marseille-Provence;3;12
+777;83121;Salernes;83690;Salernes;93;PROVENCE-ALPES-COTE D'AZUR;43.5628013611;6.23324012756;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;4
+778;83122;Les Salles-sur-Verdon;83630;Les Salles-sur-Verdon;93;PROVENCE-ALPES-COTE D'AZUR;43.7351989746;6.17513990402;9313;Draguignan;Nice;83;VAR;CC Lacs et Gorges du Verdon;3;4
+779;83123;Sanary-sur-Mer;83112;Sanary-sur-Mer Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.118021;5.801435;9315;Toulon;Nice;83;VAR;CA Sud Sainte Baume;2;10
+780;83124;Seillans;83440;Seillans;93;PROVENCE-ALPES-COTE D'AZUR;43.6355705261;6.6440281868;9305;Cannes - Antibes;Nice;83;VAR;CC du Pays de Fayence;1;11
+781;83125;Seillons-Source-d'Argens;83470;Seillons-Source-d'Argens;93;PROVENCE-ALPES-COTE D'AZUR;43.4961128235;5.88417196274;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;13
+782;83126;La Seyne-sur-Mer;83507;La Seyne-sur-Mer Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.1017068;5.8815653;9315;Toulon;Nice;83;VAR;MÃ©tropole Toulon-Provence-MÃ©diterranÃ©e;2;98
+783;83127;Signes;83870;Signes;93;PROVENCE-ALPES-COTE D'AZUR;43.2910003662;5.863530159;9310;Marseille - Aubagne;Nice;83;VAR;CA Sud Sainte Baume;2;12
+784;83128;Sillans-la-Cascade;83690;Sillans-la-Cascade;93;PROVENCE-ALPES-COTE D'AZUR;43.567199707;6.17954015732;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;4
+785;83129;Six-Fours-les-Plages;83183;Six-Fours-les-Plages Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.0932187;5.8392894;9315;Toulon;Nice;83;VAR;MÃ©tropole Toulon-Provence-MÃ©diterranÃ©e;2;17
+786;83130;SolliÃ¨s-Pont;83210;SolliÃ¨s-Pont;93;PROVENCE-ALPES-COTE D'AZUR;43.1903839111;6.04150676727;9315;Toulon;Nice;83;VAR;CC de la VallÃ©e du Gapeau;2;18
+787;83131;SolliÃ¨s-Toucas;83210;SolliÃ¨s-Toucas;93;PROVENCE-ALPES-COTE D'AZUR;43.2062683105;6.02454376221;9315;Toulon;Nice;83;VAR;CC de la VallÃ©e du Gapeau;2;18
+788;83132;SolliÃ¨s-Ville;83210;SolliÃ¨s-Ville;93;PROVENCE-ALPES-COTE D'AZUR;43.1824874878;6.03780698776;9315;Toulon;Nice;83;VAR;CC de la VallÃ©e du Gapeau;2;18
+789;83133;Tanneron;83440;Tanneron;93;PROVENCE-ALPES-COTE D'AZUR;43.5242004395;6.81398010254;9305;Cannes - Antibes;Nice;83;VAR;CC du Pays de Fayence;1;11
+790;83134;Taradeau;83460;Taradeau;93;PROVENCE-ALPES-COTE D'AZUR;43.454594;6.4275876;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;23
+791;83135;Tavernes;83670;Tavernes;93;PROVENCE-ALPES-COTE D'AZUR;43.5938612;6.0166587;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;4
+792;83136;Le Thoronet;83340;Le Thoronet;93;PROVENCE-ALPES-COTE D'AZUR;43.4501113892;6.30808877945;9313;Draguignan;Nice;83;VAR;CC Coeur du Var;3;9
+793;83137;Toulon;83056;Toulon Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.1196945;5.9327554;9315;Toulon;Nice;83;VAR;MÃ©tropole Toulon-Provence-MÃ©diterranÃ©e;2;99
+794;83138;Tourrettes;83440;Tourrettes;93;PROVENCE-ALPES-COTE D'AZUR;43.6238861084;6.70208311081;9305;Cannes - Antibes;Nice;83;VAR;CC du Pays de Fayence;1;11
+795;83139;Tourtour;83690;Tourtour;93;PROVENCE-ALPES-COTE D'AZUR;43.589302063;6.30224895477;9313;Draguignan;Nice;83;VAR;CC Lacs et Gorges du Verdon;3;4
+796;83140;Tourves;83170;Tourves;93;PROVENCE-ALPES-COTE D'AZUR;43.4527015686;5.86339998245;9310;Marseille - Aubagne;Nice;83;VAR;CA de la Provence Verte;3;1
+797;83141;Trans-en-Provence;83720;Trans-en-Provence;93;PROVENCE-ALPES-COTE D'AZUR;43.5035825;6.4853935;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;3
+798;83142;Trigance;83840;Trigance;93;PROVENCE-ALPES-COTE D'AZUR;43.7602214;6.4418179;9313;Draguignan;Nice;83;VAR;CC Lacs et Gorges du Verdon;1;4
+799;83143;Le Val;83143;Le Val;93;PROVENCE-ALPES-COTE D'AZUR;43.4390868;6.072571;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;1
+800;83144;La Valette-du-Var;83167;La Valette-du-Var Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.1693852;5.9209092;9315;Toulon;Nice;83;VAR;MÃ©tropole Toulon-Provence-MÃ©diterranÃ©e;2;21
+801;83145;Varages;83670;Varages;93;PROVENCE-ALPES-COTE D'AZUR;43.5972824097;5.96162986755;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;13
+802;83146;La VerdiÃ¨re;83560;La VerdiÃ¨re;93;PROVENCE-ALPES-COTE D'AZUR;43.6360788;5.9365498;9308;Aix-en-Provence;Nice;83;VAR;CC Provence Verdon;3;13
+803;83147;VÃ©rignon;83630;VÃ©rignon;93;PROVENCE-ALPES-COTE D'AZUR;43.6539039612;6.27281188965;9313;Draguignan;Nice;83;VAR;CC Lacs et Gorges du Verdon;3;4
+804;83148;Vidauban;83550;Vidauban;93;PROVENCE-ALPES-COTE D'AZUR;43.4268989563;6.4310798645;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;23
+805;83149;Villecroze;83690;Villecroze;93;PROVENCE-ALPES-COTE D'AZUR;43.5822982788;6.27513980865;9313;Draguignan;Nice;83;VAR;CC Lacs et Gorges du Verdon;3;4
+806;83150;Vinon-sur-Verdon;83560;Vinon-sur-Verdon;93;PROVENCE-ALPES-COTE D'AZUR;43.7256011963;5.81267023087;9308;Aix-en-Provence;Nice;83;VAR;CA Durance-LubÃ©ron-Verdon AgglomÃ©ration;3;13
+807;83151;Vins-sur-Caramy;83170;Vins-sur-Caramy;93;PROVENCE-ALPES-COTE D'AZUR;43.4336128235;6.14168405533;9315;Toulon;Nice;83;VAR;CA de la Provence Verte;3;1
+808;83152;Rayol-Canadel-sur-Mer;83820;Rayol-Canadel-sur-Mer;93;PROVENCE-ALPES-COTE D'AZUR;43.1585044861;6.46147012711;9315;Toulon;Nice;83;VAR;CC du Golfe de Saint-Tropez;1;2
+809;83153;Saint-Mandrier-sur-Mer;83430;Saint-Mandrier-sur-Mer;93;PROVENCE-ALPES-COTE D'AZUR;43.0769004822;5.92798995972;9315;Toulon;Nice;83;VAR;MÃ©tropole Toulon-Provence-MÃ©diterranÃ©e;2;17
+810;83154;Saint-Antonin-du-Var;83510;Saint-Antonin-du-Var;93;PROVENCE-ALPES-COTE D'AZUR;43.5145072937;6.28810405731;9313;Draguignan;Nice;83;VAR;CA DracÃ©noise;1;1
+811;84001;Althen-des-Paluds;84210;Althen-des-Paluds;93;PROVENCE-ALPES-COTE D'AZUR;44.004336;4.958824;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC des Sorgues du Comtat;3;10
+812;84002;Ansouis;84240;Ansouis;93;PROVENCE-ALPES-COTE D'AZUR;43.7382011414;5.46514987946;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;13
+813;84003;Apt;84405;Apt Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.875852;5.3952166;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+814;84004;Aubignan;84810;Aubignan;93;PROVENCE-ALPES-COTE D'AZUR;44.0994987488;5.02452993393;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;6
+815;84005;Aurel;84390;Aurel;93;PROVENCE-ALPES-COTE D'AZUR;44.130097;5.427539;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Ventoux Sud;3;12
+816;84006;Auribeau;84400;Auribeau;93;PROVENCE-ALPES-COTE D'AZUR;43.836487;5.4590379;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+817;84007;Avignon;84045;Avignon Cedex 9;93;PROVENCE-ALPES-COTE D'AZUR;43.9492888;4.8055893;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA du Grand Avignon (COGA);2;99
+818;84008;Le Barroux;84330;Le Barroux;93;PROVENCE-ALPES-COTE D'AZUR;44.1377983093;5.10106992722;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;16
+819;84009;La Bastide-des-Jourdans;84240;La Bastide-des-Jourdans;93;PROVENCE-ALPES-COTE D'AZUR;43.7853229;5.6338232;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;13
+820;84010;La Bastidonne;84120;La Bastidonne;93;PROVENCE-ALPES-COTE D'AZUR;43.7001991272;5.56724977493;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;13
+821;84011;Le Beaucet;84210;Le Beaucet;93;PROVENCE-ALPES-COTE D'AZUR;43.983464;5.119532;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;12
+822;84012;Beaumes-de-Venise;84190;Beaumes-de-Venise;93;PROVENCE-ALPES-COTE D'AZUR;44.1207008362;5.02842998505;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;10
+823;84013;Beaumettes;84220;Beaumettes;93;PROVENCE-ALPES-COTE D'AZUR;43.8583602905;5.2024230957;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;1
+824;84014;Beaumont-de-Pertuis;84120;Beaumont-de-Pertuis;93;PROVENCE-ALPES-COTE D'AZUR;43.7376594543;5.68942022324;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;13
+825;84015;Beaumont-du-Ventoux;84340;Beaumont-du-Ventoux;93;PROVENCE-ALPES-COTE D'AZUR;44.2176017761;5.13794994354;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;16
+826;84016;BÃ©darrides;84370;BÃ©darrides;93;PROVENCE-ALPES-COTE D'AZUR;44.0406990051;4.89766979218;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC des Sorgues du Comtat;2;15
+827;84017;BÃ©doin;84410;BÃ©doin;93;PROVENCE-ALPES-COTE D'AZUR;44.1228981018;5.1804599762;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;12
+828;84018;Blauvac;84570;Blauvac;93;PROVENCE-ALPES-COTE D'AZUR;44.0296516418;5.1993432045;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Ventoux Sud;3;12
+829;84019;BollÃ¨ne;84505;BollÃ¨ne Cedex;93;PROVENCE-ALPES-COTE D'AZUR;44.2801017761;4.74831008911;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC RhÃ´ne Lez Provence;3;5
+830;84020;Bonnieux;84480;Bonnieux;93;PROVENCE-ALPES-COTE D'AZUR;43.8232269287;5.30819177628;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+831;84021;Brantes;84390;Brantes;93;PROVENCE-ALPES-COTE D'AZUR;44.1933097839;5.33443593979;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+832;84022;Buisson;84110;Buisson;93;PROVENCE-ALPES-COTE D'AZUR;44.2799282;4.9978129;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+833;84023;Buoux;84480;Buoux;93;PROVENCE-ALPES-COTE D'AZUR;43.8313941956;5.37820196152;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+834;84024;CabriÃ¨res-d'Aigues;84240;CabriÃ¨res-d'Aigues;93;PROVENCE-ALPES-COTE D'AZUR;43.7845993042;5.49776983261;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;13
+835;84025;CabriÃ¨res-d'Avignon;84220;CabriÃ¨res-d'Avignon;93;PROVENCE-ALPES-COTE D'AZUR;43.8903999329;5.15075016022;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;8
+836;84026;Cadenet;84160;Cadenet;93;PROVENCE-ALPES-COTE D'AZUR;43.7373008728;5.37893009186;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;8
+837;84027;Caderousse;84860;Caderousse;93;PROVENCE-ALPES-COTE D'AZUR;44.1026992798;4.75714015961;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC du Pays RÃ©uni d'Orange;3;11
+838;84028;Cairanne;84290;Cairanne;93;PROVENCE-ALPES-COTE D'AZUR;44.2299461365;4.93189096451;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+839;84029;Camaret-sur-Aigues;84850;Camaret-sur-Aigues;93;PROVENCE-ALPES-COTE D'AZUR;44.1643981934;4.87383985519;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC Aygues-OuvÃ¨ze en Provence (CCAOP);3;16
+840;84030;Caromb;84330;Caromb;93;PROVENCE-ALPES-COTE D'AZUR;44.1111984253;5.10618019104;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;10
+841;84031;Carpentras;84208;Carpentras Cedex;93;PROVENCE-ALPES-COTE D'AZUR;44.0553542;5.0486176;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;6
+842;84032;Caseneuve;84750;Caseneuve;93;PROVENCE-ALPES-COTE D'AZUR;43.894445;5.5439493;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+843;84033;Castellet;84400;Castellet;93;PROVENCE-ALPES-COTE D'AZUR;43.837498;5.479413;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CA Sud Sainte Baume;1;1
+844;84034;Caumont-sur-Durance;84510;Caumont-sur-Durance;93;PROVENCE-ALPES-COTE D'AZUR;43.9290008545;4.99554014206;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA du Grand Avignon (COGA);2;7
+845;84035;Cavaillon;84300;Cavaillon;93;PROVENCE-ALPES-COTE D'AZUR;43.8356666565;5.03799104691;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;7
+846;84036;ChÃ¢teauneuf-de-Gadagne;84470;ChÃ¢teauneuf-de-Gadagne;93;PROVENCE-ALPES-COTE D'AZUR;43.9276008606;4.94403982162;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC du Pays des Sorgues et des Monts de Vaucluse;2;9
+847;84037;ChÃ¢teauneuf-du-Pape;84232;ChÃ¢teauneuf-du-Pape Cedex;93;PROVENCE-ALPES-COTE D'AZUR;44.0564002991;4.83094978333;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC du Pays RÃ©uni d'Orange;3;15
+848;84038;Cheval-Blanc;84460;Cheval-Blanc;93;PROVENCE-ALPES-COTE D'AZUR;43.7552739;5.2027925;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;8
+849;84039;CourthÃ©zon;84350;CourthÃ©zon;93;PROVENCE-ALPES-COTE D'AZUR;44.087232;4.883517;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC du Pays RÃ©uni d'Orange;2;15
+850;84040;Crestet;84110;Crestet;93;PROVENCE-ALPES-COTE D'AZUR;44.2171287537;5.08431196213;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+851;84041;Crillon-le-Brave;84410;Crillon-le-Brave;93;PROVENCE-ALPES-COTE D'AZUR;44.1180992126;5.14464998245;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;12
+852;84042;Cucuron;84160;Cucuron;93;PROVENCE-ALPES-COTE D'AZUR;43.7732508;5.4384987;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;8
+853;84043;Entraigues-sur-la-Sorgue;84320;Entraigues-sur-la-Sorgue;93;PROVENCE-ALPES-COTE D'AZUR;44.0035018921;4.92780017853;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA du Grand Avignon (COGA);2;10
+854;84044;Entrechaux;84340;Entrechaux;93;PROVENCE-ALPES-COTE D'AZUR;44.218012;5.138202;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+855;84045;Faucon;84110;Faucon;93;PROVENCE-ALPES-COTE D'AZUR;44.2597007751;5.14649009705;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+856;84046;Flassan;84410;Flassan;93;PROVENCE-ALPES-COTE D'AZUR;44.099044;5.242369;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;12
+857;84047;Gargas;84400;Gargas;93;PROVENCE-ALPES-COTE D'AZUR;43.90322;5.357388;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+858;84048;Gignac;84400;Gignac;93;PROVENCE-ALPES-COTE D'AZUR;43.9188529;5.5282019;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+859;84049;Gigondas;84190;Gigondas;93;PROVENCE-ALPES-COTE D'AZUR;44.1634463;5.004201;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;16
+860;84050;Gordes;84220;Gordes;93;PROVENCE-ALPES-COTE D'AZUR;43.9112014771;5.19988012314;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;1
+861;84051;Goult;84220;Goult;93;PROVENCE-ALPES-COTE D'AZUR;43.863673;5.242289;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+862;84052;Grambois;84240;Grambois;93;PROVENCE-ALPES-COTE D'AZUR;43.7624015808;5.58902978897;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;13
+863;84053;Grillon;84600;Grillon;93;PROVENCE-ALPES-COTE D'AZUR;44.3927001953;4.92983007431;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC Enclave des Papes-Pays de Grignan;3;17
+864;84054;L'Isle-sur-la-Sorgue;84800;L'Isle-sur-la-Sorgue;93;PROVENCE-ALPES-COTE D'AZUR;43.9189893;5.0503817;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC du Pays des Sorgues et des Monts de Vaucluse;2;9
+865;84055;Jonquerettes;84450;Jonquerettes;93;PROVENCE-ALPES-COTE D'AZUR;43.9468143;4.9329396;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA du Grand Avignon (COGA);2;14
+866;84056;JonquiÃ¨res;84150;JonquiÃ¨res;93;PROVENCE-ALPES-COTE D'AZUR;44.1156997681;4.89739990234;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC du Pays RÃ©uni d'Orange;3;15
+867;84057;Joucas;84220;Joucas;93;PROVENCE-ALPES-COTE D'AZUR;43.9255409241;5.25189495087;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+868;84058;Lacoste;84480;Lacoste;93;PROVENCE-ALPES-COTE D'AZUR;43.8320007324;5.27281999588;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+869;84059;Lafare;84190;Lafare;93;PROVENCE-ALPES-COTE D'AZUR;44.1463279724;5.05112791061;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;16
+870;84060;Lagarde-d'Apt;84400;Lagarde-d'Apt;93;PROVENCE-ALPES-COTE D'AZUR;43.983583;5.472964;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+871;84061;Lagarde-ParÃ©ol;84290;Lagarde-ParÃ©ol;93;PROVENCE-ALPES-COTE D'AZUR;44.228428;4.850824;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC Aygues-OuvÃ¨ze en Provence (CCAOP);3;5
+872;84062;Lagnes;84800;Lagnes;93;PROVENCE-ALPES-COTE D'AZUR;43.8926010132;5.11432981491;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;8
+873;84063;Lamotte-du-RhÃ´ne;84840;Lamotte-du-RhÃ´ne;93;PROVENCE-ALPES-COTE D'AZUR;44.254699707;4.64950990677;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC RhÃ´ne Lez Provence;3;5
+874;84064;Lapalud;84840;Lapalud;93;PROVENCE-ALPES-COTE D'AZUR;44.3050003052;4.6876502037;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC RhÃ´ne Lez Provence;3;5
+875;84065;Lauris;84360;Lauris;93;PROVENCE-ALPES-COTE D'AZUR;43.7472000122;5.31509017944;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;8
+876;84066;Lioux;84220;Lioux;93;PROVENCE-ALPES-COTE D'AZUR;43.9460334778;5.30136585236;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+877;84067;Loriol-du-Comtat;84870;Loriol-du-Comtat;93;PROVENCE-ALPES-COTE D'AZUR;44.0343017578;4.99510002136;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;6
+878;84068;Lourmarin;84160;Lourmarin;93;PROVENCE-ALPES-COTE D'AZUR;43.7630996704;5.36299991608;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;8
+879;84069;MalaucÃ¨ne;84340;MalaucÃ¨ne;93;PROVENCE-ALPES-COTE D'AZUR;44.1749992371;5.13216018677;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;16
+880;84070;Malemort-du-Comtat;84570;Malemort-du-Comtat;93;PROVENCE-ALPES-COTE D'AZUR;44.0219993591;5.15657997131;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Ventoux Sud;3;12
+881;84071;Maubec;84660;Maubec;93;PROVENCE-ALPES-COTE D'AZUR;43.8429985046;5.13867998123;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;8
+882;84072;Mazan;84380;Mazan;93;PROVENCE-ALPES-COTE D'AZUR;44.0564002991;5.12624979019;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;12
+883;84073;MÃ©nerbes;84560;MÃ©nerbes;93;PROVENCE-ALPES-COTE D'AZUR;43.863899231;5.24201011658;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+884;84074;MÃ©rindol;84360;MÃ©rindol;93;PROVENCE-ALPES-COTE D'AZUR;43.7554016113;5.2027797699;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;8
+885;84075;MÃ©thamis;84570;MÃ©thamis;93;PROVENCE-ALPES-COTE D'AZUR;44.0153561;5.2247181;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Ventoux Sud;3;12
+886;84076;Mirabeau;84120;Mirabeau;93;PROVENCE-ALPES-COTE D'AZUR;43.704393;5.6561009;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;13
+887;84077;ModÃ¨ne;84330;ModÃ¨ne;93;PROVENCE-ALPES-COTE D'AZUR;44.1010448;5.130520499999989;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;12
+888;84078;Mondragon;84430;Mondragon;93;PROVENCE-ALPES-COTE D'AZUR;44.2379989624;4.71156978607;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC RhÃ´ne Lez Provence;3;5
+889;84079;Monieux;84390;Monieux;93;PROVENCE-ALPES-COTE D'AZUR;44.0701764;5.3619063;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Ventoux Sud;3;12
+890;84080;Monteux;84170;Monteux;93;PROVENCE-ALPES-COTE D'AZUR;44.0343017578;4.99538993835;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC des Sorgues du Comtat;3;10
+891;84081;MoriÃ¨res-lÃ¨s-Avignon;84310;MoriÃ¨res-lÃ¨s-Avignon;93;PROVENCE-ALPES-COTE D'AZUR;43.9424709;4.9053544;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA du Grand Avignon (COGA);2;4
+892;84082;Mormoiron;84570;Mormoiron;93;PROVENCE-ALPES-COTE D'AZUR;44.067689;5.183815;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Ventoux Sud;3;12
+893;84083;Mornas;84550;Mornas;93;PROVENCE-ALPES-COTE D'AZUR;44.2033996582;4.72770023346;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC RhÃ´ne Lez Provence;3;5
+894;84084;La Motte-d'Aigues;84240;La Motte-d'Aigues;93;PROVENCE-ALPES-COTE D'AZUR;43.7730064;5.521645;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;13
+895;84085;Murs;84220;Murs;93;PROVENCE-ALPES-COTE D'AZUR;43.9133987427;5.20066976547;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+896;84086;OppÃ¨de;84580;OppÃ¨de;93;PROVENCE-ALPES-COTE D'AZUR;43.8432998657;5.16779994965;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;1
+897;84087;Orange;84106;Orange Cedex;93;PROVENCE-ALPES-COTE D'AZUR;44.1376991272;4.80796003342;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC du Pays RÃ©uni d'Orange;3;11
+898;84088;Pernes-les-Fontaines;84210;Pernes-les-Fontaines;93;PROVENCE-ALPES-COTE D'AZUR;43.9971008301;5.06045007706;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC des Sorgues du Comtat;3;12
+899;84089;Pertuis;84120;Pertuis;93;PROVENCE-ALPES-COTE D'AZUR;43.6913984;5.5015581;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;MÃ©tropole d'Aix-Marseille-Provence;1;13
+900;84090;Peypin-d'Aigues;84240;Peypin-d'Aigues;93;PROVENCE-ALPES-COTE D'AZUR;43.7875048;5.5695496;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;13
+901;84091;Piolenc;84420;Piolenc;93;PROVENCE-ALPES-COTE D'AZUR;44.1781005859;4.76099014282;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC Aygues-OuvÃ¨ze en Provence (CCAOP);3;11
+902;84092;Le Pontet;84134;Le Pontet Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.9605412;4.8648628;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA du Grand Avignon (COGA);2;14
+903;84093;Puget-sur-Durance;84360;Puget-sur-Durance;93;PROVENCE-ALPES-COTE D'AZUR;43.7569451;5.2607126;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;8
+904;84094;PuymÃ©ras;84110;PuymÃ©ras;93;PROVENCE-ALPES-COTE D'AZUR;44.2706985474;5.12819004059;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+905;84095;Puyvert;84160;Puyvert;93;PROVENCE-ALPES-COTE D'AZUR;43.7593994141;5.34287977219;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;8
+906;84096;Rasteau;84110;Rasteau;93;PROVENCE-ALPES-COTE D'AZUR;44.2840003967;5.03414011002;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+907;84097;Richerenches;84600;Richerenches;93;PROVENCE-ALPES-COTE D'AZUR;44.3596000671;4.91188001633;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC Enclave des Papes-Pays de Grignan;3;17
+908;84098;Roaix;84110;Roaix;93;PROVENCE-ALPES-COTE D'AZUR;44.2488894;5.0257549;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+909;84099;Robion;84440;Robion;93;PROVENCE-ALPES-COTE D'AZUR;43.8443984985;5.11206007004;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;8
+910;84100;La Roque-Alric;84190;La Roque-Alric;93;PROVENCE-ALPES-COTE D'AZUR;44.143916;5.064176;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;16
+911;84101;La Roque-sur-Pernes;84210;La Roque-sur-Pernes;93;PROVENCE-ALPES-COTE D'AZUR;43.978981;5.107173;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;12
+912;84102;Roussillon;84220;Roussillon;93;PROVENCE-ALPES-COTE D'AZUR;43.902653;5.2929996;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+913;84103;Rustrel;84400;Rustrel;93;PROVENCE-ALPES-COTE D'AZUR;43.9244995117;5.48416996002;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+914;84104;Sablet;84110;Sablet;93;PROVENCE-ALPES-COTE D'AZUR;44.1940994263;5.00372982025;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+915;84105;Saignon;84400;Saignon;93;PROVENCE-ALPES-COTE D'AZUR;43.8616966;5.4301116;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+916;84106;Sainte-CÃ©cile-les-Vignes;84290;Sainte-CÃ©cile-les-Vignes;93;PROVENCE-ALPES-COTE D'AZUR;44.2452011108;4.88779020309;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC Aygues-OuvÃ¨ze en Provence (CCAOP);3;5
+917;84107;Saint-Christol;84390;Saint-Christol;93;PROVENCE-ALPES-COTE D'AZUR;44.0285987854;5.49268007278;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Ventoux Sud;3;12
+918;84108;Saint-Didier;84210;Saint-Didier;93;PROVENCE-ALPES-COTE D'AZUR;44.0054099407;5.11070251465;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;12
+919;84109;Saint-Hippolyte-le-Graveyron;84330;Saint-Hippolyte-le-Graveyron;93;PROVENCE-ALPES-COTE D'AZUR;44.121467;5.075374;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;10
+920;84110;Saint-LÃ©ger-du-Ventoux;84390;Saint-LÃ©ger-du-Ventoux;93;PROVENCE-ALPES-COTE D'AZUR;44.2117118835;5.27572917938;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+921;84111;Saint-Marcellin-lÃ¨s-Vaison;84110;Saint-Marcellin-lÃ¨s-Vaison;93;PROVENCE-ALPES-COTE D'AZUR;44.2306976318;5.09637594223;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+922;84112;Saint-Martin-de-Castillon;84750;Saint-Martin-de-Castillon;93;PROVENCE-ALPES-COTE D'AZUR;43.9241218567;5.48581790924;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+923;84113;Saint-Martin-de-la-Brasque;84760;Saint-Martin-de-la-Brasque;93;PROVENCE-ALPES-COTE D'AZUR;43.7695770264;5.53714084625;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;13
+924;84114;Saint-PantalÃ©on;84220;Saint-PantalÃ©on;93;PROVENCE-ALPES-COTE D'AZUR;43.880929;5.2151379;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+925;84115;Saint-Pierre-de-Vassols;84330;Saint-Pierre-de-Vassols;93;PROVENCE-ALPES-COTE D'AZUR;44.1002998352;5.13724994659;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;12
+926;84116;Saint-Romain-en-Viennois;84110;Saint-Romain-en-Viennois;93;PROVENCE-ALPES-COTE D'AZUR;44.2706985474;5.12819004059;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+927;84117;Saint-Roman-de-Malegarde;84290;Saint-Roman-de-Malegarde;93;PROVENCE-ALPES-COTE D'AZUR;44.28657;4.929566;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+928;84118;Saint-Saturnin-lÃ¨s-Apt;84490;Saint-Saturnin-lÃ¨s-Apt;93;PROVENCE-ALPES-COTE D'AZUR;43.9444346;5.3839229;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+929;84119;Saint-Saturnin-lÃ¨s-Avignon;84450;Saint-Saturnin-lÃ¨s-Avignon;93;PROVENCE-ALPES-COTE D'AZUR;43.9560012817;4.92967987061;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA du Grand Avignon (COGA);2;14
+930;84120;Saint-Trinit;84390;Saint-Trinit;93;PROVENCE-ALPES-COTE D'AZUR;44.1031532288;5.46510076523;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Ventoux Sud;3;12
+931;84121;Sannes;84240;Sannes;93;PROVENCE-ALPES-COTE D'AZUR;43.7612444;5.4704973;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;13
+932;84122;Sarrians;84260;Sarrians;93;PROVENCE-ALPES-COTE D'AZUR;44.0831534;4.972004;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;10
+933;84123;Sault;84390;Sault;93;PROVENCE-ALPES-COTE D'AZUR;44.091413;5.408174;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Ventoux Sud;3;12
+934;84124;Saumane-de-Vaucluse;84800;Saumane-de-Vaucluse;93;PROVENCE-ALPES-COTE D'AZUR;43.9359397888;5.10574007034;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC du Pays des Sorgues et des Monts de Vaucluse;2;9
+935;84125;Savoillans;84390;Savoillans;93;PROVENCE-ALPES-COTE D'AZUR;44.1800003052;5.37254905701;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+936;84126;SÃ©guret;84110;SÃ©guret;93;PROVENCE-ALPES-COTE D'AZUR;44.20559;5.023091;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+937;84127;SÃ©rignan-du-Comtat;84830;SÃ©rignan-du-Comtat;93;PROVENCE-ALPES-COTE D'AZUR;44.1891860962;4.83996582031;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC Aygues-OuvÃ¨ze en Provence (CCAOP);3;5
+938;84128;Sivergues;84400;Sivergues;93;PROVENCE-ALPES-COTE D'AZUR;43.827756;5.40398;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+939;84129;Sorgues;84706;Sorgues Cedex;93;PROVENCE-ALPES-COTE D'AZUR;44.0052986145;4.89173984528;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC des Sorgues du Comtat;2;15
+940;84130;Suzette;84190;Suzette;93;PROVENCE-ALPES-COTE D'AZUR;44.1918983459;5.00731992722;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;16
+941;84131;Taillades;84308;Taillades;93;PROVENCE-ALPES-COTE D'AZUR;43.8335990906;5.09334993362;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;8
+942;84132;Le Thor;84250;Le Thor;93;PROVENCE-ALPES-COTE D'AZUR;43.9277000427;4.9929599762;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC du Pays des Sorgues et des Monts de Vaucluse;2;9
+943;84133;La Tour-d'Aigues;84240;La Tour-d'Aigues;93;PROVENCE-ALPES-COTE D'AZUR;43.725514;5.5483663;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;13
+944;84134;Travaillan;84850;Travaillan;93;PROVENCE-ALPES-COTE D'AZUR;44.1821365356;4.90128993988;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC Aygues-OuvÃ¨ze en Provence (CCAOP);3;16
+945;84135;Uchaux;84100;Uchaux;93;PROVENCE-ALPES-COTE D'AZUR;44.2035102844;4.80760192871;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC Aygues-OuvÃ¨ze en Provence (CCAOP);3;5
+946;84136;Vacqueyras;84190;Vacqueyras;93;PROVENCE-ALPES-COTE D'AZUR;44.138463;4.982689;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;16
+947;84137;Vaison-la-Romaine;84110;Vaison-la-Romaine;93;PROVENCE-ALPES-COTE D'AZUR;44.2416992188;5.07482004166;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+948;84138;ValrÃ©as;84602;ValrÃ©as Cedex;93;PROVENCE-ALPES-COTE D'AZUR;44.3833999634;4.99032020569;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC Enclave des Papes-Pays de Grignan;3;17
+949;84139;Fontaine-de-Vaucluse;84800;Fontaine-de-Vaucluse;93;PROVENCE-ALPES-COTE D'AZUR;43.9067001343;5.18202018738;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC du Pays des Sorgues et des Monts de Vaucluse;2;9
+950;84140;Vaugines;84160;Vaugines;93;PROVENCE-ALPES-COTE D'AZUR;43.7789001465;5.41544008255;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CA Luberon Monts de Vaucluse;1;8
+951;84141;VedÃ¨ne;84271;VedÃ¨ne Cedex;93;PROVENCE-ALPES-COTE D'AZUR;43.9781605;4.9041823;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA du Grand Avignon (COGA);2;14
+952;84142;Velleron;84740;Velleron;93;PROVENCE-ALPES-COTE D'AZUR;43.9570999146;5.02946996689;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA du Grand Avignon (COGA);2;14
+953;84143;Venasque;84210;Venasque;93;PROVENCE-ALPES-COTE D'AZUR;43.9959983826;5.14662981033;59;Avignon;Aix-Marseille;84;VAUCLUSE;CA Ventoux-Comtat-Venaissin (COVE);3;12
+954;84144;Viens;84750;Viens;93;PROVENCE-ALPES-COTE D'AZUR;43.895473;5.566641;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+955;84145;Villars;84400;Villars;93;PROVENCE-ALPES-COTE D'AZUR;43.92342;5.40545;9316;Cavaillon - Apt;Aix-Marseille;84;VAUCLUSE;CC Pays d'Apt-Luberon;1;1
+956;84146;Villedieu;84110;Villedieu;93;PROVENCE-ALPES-COTE D'AZUR;44.2838459;5.033666;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Vaison Ventoux;3;16
+957;84147;Villelaure;84530;Villelaure;93;PROVENCE-ALPES-COTE D'AZUR;43.6944999695;5.51669979095;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;13
+958;84148;Villes-sur-Auzon;84570;Villes-sur-Auzon;93;PROVENCE-ALPES-COTE D'AZUR;44.0573997498;5.23406982422;59;Avignon;Aix-Marseille;84;VAUCLUSE;CC Ventoux Sud;3;12
+959;84149;ViolÃ¨s;84150;ViolÃ¨s;93;PROVENCE-ALPES-COTE D'AZUR;44.1619987488;4.9528799057;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC Aygues-OuvÃ¨ze en Provence (CCAOP);3;16
+960;84150;Visan;84820;Visan;93;PROVENCE-ALPES-COTE D'AZUR;44.313716;4.9510496;9317;Orange;Aix-Marseille;84;VAUCLUSE;CC Enclave des Papes-Pays de Grignan;3;17
+961;84151;Vitrolles-en-LubÃ©ron;84240;Vitrolles-en-LubÃ©ron;93;PROVENCE-ALPES-COTE D'AZUR;43.762298584;5.58858013153;9308;Aix-en-Provence;Aix-Marseille;84;VAUCLUSE;CC Territoriale Sud-Luberon;1;13

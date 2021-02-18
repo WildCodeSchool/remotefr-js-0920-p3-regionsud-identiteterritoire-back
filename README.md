@@ -91,6 +91,8 @@ On part donc du principe que ces opérations ont déjà été réalisées sur le
 * Installation d'etckeeper
 * Création d'un compte utilisateur `nodejs` non privilégié
 
+Si PHP n'est pas installé, on peut le faire en ajoutant [le PPA deb.sury.org](https://github.com/oerdnj/deb.sury.org/wiki/Frequently-Asked-Questions#debian), puis en lançant `sudo apt-get install -y php8.0`.
+
 ### Déploiement de l'application cliente
 
 Cette partie suit la même logique que pour l'application cliente du projet *Kit Pollution Lumineuse* (KPL). Les explications seront donc plus concises, pour éviter trop de répétitions.
@@ -144,8 +146,159 @@ En étant revenu à un compte utilisateur ayant les droits sudo :
 
     sudo ln -s /home/nodejs/citer-frontend/build /var/www/html/carte-identite-territoire
 
+On peut alors accéder à l'application depuis un navigateur, à l'adresse <http://w.x.y.z/carte-identite-territoire>.
 
-!!!!!!!
+### Déploiement de l'application serveur
+
+Des instructions sont fournies dans la documentation de Laravel, notamment dans les pages [Installation](https://laravel.com/docs/8.x/installation) et [Deployment](https://laravel.com/docs/8.x/deployment), sous la section "Getting Started".
+
+#### Création d'un utilisateur non-privilégié
+
+Par souci de séparation, on crée un autre compte utilisateur non-privilégié, qui sera le propriétaire du répertoire de l'application serveur :
+
+    sudo adduser laravel
+
+#### Récupération du code source via Git
+
+On se connecte en tant que `laravel` : `su - laravel`
+
+Puis on clone le dépôt de l'application serveur du projet CITer :
+
+    git clone https://github.com/WildCodeSchool/remotefr-js-0920-p3-regionsud-identiteterritoire-back citer-backend
+
+#### Installation de Composer
+
+Toujours en tant qu'utilisateur `laravel`, et depuis son home dir, on télécharge Composer, en [suivant les instructions](https://getcomposer.org/download/).
+
+    php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+    php -r "if (hash_file('sha384', 'composer-setup.php') === '756890a4488ce9024fc62c56153228907f1545c228516cbf63f885e036d37e9a59d27d63f46af1d4d07ee0f76181c7d3') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+    php composer-setup.php
+    php -r "unlink('composer-setup.php');"
+
+Composer est alors disponible dans le répertoire courant, sous le nom `composer.phar`.
+
+On le déplace sous `citer-backend`, le renommant en tant que `composer` : `mv composer.phar citer-backend/composer`.
+
+#### Installation des dépendances
+
+Composer étant installé dans le dossier `citer-backend`, on s'y place, et on installe les dépendances :
+
+    cd citer-backend
+    php composer install
+
+Lors de cette première tentative, on reçoit un message d'erreur, indiquant des problèmes dans la chaîne de dépendances :
+
+```
+Installing dependencies from lock file (including require-dev)
+Verifying lock file contents can be installed on current platform.
+Your lock file does not contain a compatible set of packages. Please run composer update.
+
+  Problem 1
+    - laravel/framework is locked to version v8.21.0 and an update of this package was not requested.
+    - laravel/framework v8.21.0 requires ext-mbstring * -> it is missing from your system. Install or enable PHP's mbstring extension.
+  Problem 2
+    - league/commonmark is locked to version 1.5.7 and an update of this package was not requested.
+    - league/commonmark 1.5.7 requires ext-mbstring * -> it is missing from your system. Install or enable PHP's mbstring extension.
+  Problem 3
+    - tijsverkoyen/css-to-inline-styles is locked to version 2.2.3 and an update of this package was not requested.
+    - tijsverkoyen/css-to-inline-styles 2.2.3 requires ext-dom * -> it is missing from your system. Install or enable PHP's dom extension.
+  Problem 4
+    - facade/ignition is locked to version 2.5.8 and an update of this package was not requested.
+    - facade/ignition 2.5.8 requires ext-mbstring * -> it is missing from your system. Install or enable PHP's mbstring extension.
+  Problem 5
+    - phar-io/manifest is locked to version 2.0.1 and an update of this package was not requested.
+    - phar-io/manifest 2.0.1 requires ext-dom * -> it is missing from your system. Install or enable PHP's dom extension.
+  Problem 6
+    - phpunit/php-code-coverage is locked to version 9.2.5 and an update of this package was not requested.
+    - phpunit/php-code-coverage 9.2.5 requires ext-dom * -> it is missing from your system. Install or enable PHP's dom extension.
+  Problem 7
+    - phpunit/phpunit is locked to version 9.5.0 and an update of this package was not requested.
+    - phpunit/phpunit 9.5.0 requires ext-dom * -> it is missing from your system. Install or enable PHP's dom extension.
+  Problem 8
+    - theseer/tokenizer is locked to version 1.2.0 and an update of this package was not requested.
+    - theseer/tokenizer 1.2.0 requires ext-dom * -> it is missing from your system. Install or enable PHP's dom extension.
+  Problem 9
+    - laravel/framework v8.21.0 requires ext-mbstring * -> it is missing from your system. Install or enable PHP's mbstring extension.
+    - laravel/sail v1.1.0 requires illuminate/contracts ^8.0|^9.0 -> satisfiable by laravel/framework[v8.21.0].
+    - laravel/sail is locked to version v1.1.0 and an update of this package was not requested.
+
+To enable extensions, verify that they are enabled in your .ini files:
+    - /etc/php/8.0/cli/php.ini
+    - /etc/php/8.0/cli/conf.d/10-opcache.ini
+    - /etc/php/8.0/cli/conf.d/10-pdo.ini
+    - /etc/php/8.0/cli/conf.d/20-calendar.ini
+    - /etc/php/8.0/cli/conf.d/20-ctype.ini
+    - /etc/php/8.0/cli/conf.d/20-exif.ini
+    - /etc/php/8.0/cli/conf.d/20-ffi.ini
+    - /etc/php/8.0/cli/conf.d/20-fileinfo.ini
+    - /etc/php/8.0/cli/conf.d/20-ftp.ini
+    - /etc/php/8.0/cli/conf.d/20-gettext.ini
+    - /etc/php/8.0/cli/conf.d/20-iconv.ini
+    - /etc/php/8.0/cli/conf.d/20-phar.ini
+    - /etc/php/8.0/cli/conf.d/20-posix.ini
+    - /etc/php/8.0/cli/conf.d/20-readline.ini
+    - /etc/php/8.0/cli/conf.d/20-shmop.ini
+    - /etc/php/8.0/cli/conf.d/20-sockets.ini
+    - /etc/php/8.0/cli/conf.d/20-sysvmsg.ini
+    - /etc/php/8.0/cli/conf.d/20-sysvsem.ini
+    - /etc/php/8.0/cli/conf.d/20-sysvshm.ini
+    - /etc/php/8.0/cli/conf.d/20-tokenizer.ini
+You can also run `php --ini` inside terminal to see which files are used by PHP in CLI mode.
+```
+
+Ceci est essentiellement dû au fait que certaines extensions de PHP, nécessitées par Laravel, ne sont pas installées. Pour les installer, on ressort du compte `laravel` et retourne à un compte possédant les droits sudo, pour lancer :
+
+    sudo apt-get install -y php8.0-mbstring php8.0-xml php8.0-curl php8.0-mysql
+
+Note : l'extension MySQL n'est pas stictement requise à ce stade pour l'installation des dépendances, mais sera nécessaire plus tard.
+
+De retour sur le compte `laravel`, la seconde tentative d'installation via `php composer install` fonctionne.
+
+#### Création d'un lien symbolique vers la doc root d'Apache
+
+À nouveau en ayant les droits sudo :
+
+    sudo ln -s /home/laravel/citer-backend/public /var/www/html/citer-back
+
+#### Réglage des permissions
+
+On peut tenter de voir comment se comporte l'application à ce stade, en visitant l'URL <http://w.x.y.z/citer-back> (`w.x.y.z` étant toujours l'adresse IP publique du serveur). Une erreur 500 nous indique un problème, ce qui est normal, car tout n'est pas encore configuré.
+
+On peut regarder les logs d'erreur Apache :
+
+    sudo tail /var/log/apache2/error.log
+
+On y trouve entre autres cette erreur :
+
+    PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/laravel/citer-backend/storage/framework/views/7e9219dc5577d7c50085fdd56e7a82c1074f07e4.php): Failed to open stream: Permission denied
+
+Certains sous-répertoires du répertoire `storage` de l'application ne peuvent pas être écrits par l'utilisateur `www-data`, qui est l'utilisateur configuré pour lancer Apache.
+
+Le tutoriel [How to set up file permissions for Laravel](https://linuxhint.com/how-to-set-up-file-permissions-for-laravel/) propose plusieurs façons d'y remédier.
+
+On va s'aider de la dernière (section "Your user as owner"), pour donner les droits d'écriture sur le répertoire de l'application aux utilisateurs du groupe `www-data`. On lance les commandes suivantes :
+
+    sudo chown -R laravel:www-data /home/laravel/citer-backend
+    sudo find /home/laravel/citer-backend -type f -exec chmod 664 {} \;
+    sudo find /home/laravel/citer-backend -type d -exec chmod 775 {} \;
+
+Site à cela, un rechargement de la page <http://w.x.y.z/citer-back> se conclut toujours par une erreur 500, qui ne provient plus d'Apache, mais de Laravel lui-même. Il va maintenant s'agir de configurer l'application.
+
+#### Configuration
+
+On va donc trouver la source de l'erreur 500 sous `storage/logs/laravel.log`. Depuis `citer-backend` : `tail -n 30 storage/logs/laravel.log`.
+
+L'erreur est la suivante : `No application encryption key has been specified`.
+
+On doit d'abord copier le fichier `.env.example` en tant que `.env` :
+
+    cp .env.example .env
+
+Puis on lance cette commande, permettant de générer une clé de chiffrement (variable `APP_KEY` dans `.env`) :
+
+    php artisan key:generate
+
+On peut désormais accéder à la page d'accueil de l'application serveur sans erreur, mais il reste des choses à configurer.
 
 Commandes :
 1/ php composer install
